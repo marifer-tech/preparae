@@ -1,0 +1,81 @@
+/* 3D Effects */
+.card-3d {
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card-3d:hover {
+    transform: translateY(-10px) rotateX(5deg) rotateY(5deg);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.floating {
+    animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Book 3D Effect */
+.book-3d {
+    perspective: 1000px;
+}
+
+.book-3d img {
+    transform: rotateY(-20deg);
+    transition: transform 0.5s ease;
+}
+
+.book-3d:hover img {
+    transform: rotateY(0deg);
+}
+
+/* Material Card Hover Effect */
+.material-card:hover {
+    transform: translateY(-10px) rotateX(5deg);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Depoimento Card Hover Effect */
+.depoimento-card:hover {
+    transform: translateY(-10px) rotateZ(1deg);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* FAQ Item Hover Effect */
+.faq-item:hover {
+    transform: translateX(5px);
+}
+
+/* Info Item Hover Effect */
+.info-item:hover {
+    transform: translateY(-5px) rotateY(5deg);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
