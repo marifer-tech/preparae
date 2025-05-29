@@ -1,0 +1,66 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2014) A supressão das vírgulas que isolam a oração 'se o medo não fosse constante' não afetaria a correção gramatical do texto.",
+    "gabarito": "E",
+    "explicacao": "As vírgulas são obrigatórias pois marcam a intercalação da oração subordinada adverbial, o que torna sua supressão gramaticalmente incorreta."
+  },
+  {
+    "numero": 2,
+    "texto": "(2014) A coerência e a coesão do texto não seriam prejudicadas se o trecho fosse reescrito com tempos futuros.",
+    "gabarito": "C",
+    "explicacao": "A correlação entre os tempos verbais seria mantida: futuro do subjuntivo com futuro do presente do indicativo."
+  },
+  {
+    "numero": 3,
+    "texto": "(2014) O verbo alardear, em 'Se fosse o tal ser humano forte que alardeio', está empregado no sentido de vangloriar-se.",
+    "gabarito": "E",
+    "explicacao": "No contexto, o verbo 'alardear' é usado no sentido de revelar ou mostrar-se, não de vangloriar-se."
+  },
+  {
+    "numero": 4,
+    "texto": "(2014) Infere-se do texto que as mazelas que assolam o mundo se devem às desigualdades sociais.",
+    "gabarito": "E",
+    "explicacao": "O texto aponta como causa principal a inação e o comodismo das pessoas, e não diretamente as desigualdades sociais."
+  },
+
+{
+    "numero": 5,
+    "texto": "(2025) A ausência de concordância entre o sujeito composto 'eficiência e responsabilidade' e o verbo no singular compromete a correção da frase: 'Eficiência e responsabilidade é fundamental'.",
+    "gabarito": "C",
+    "explicacao": "O sujeito composto exige verbo no plural. O correto seria: 'Eficiência e responsabilidade são fundamentais'."
+  },
+  {
+    "numero": 6,
+    "texto": "(2025) A expressão 'por conseguinte', ao ser empregada em um parágrafo, introduz uma ideia de oposição entre as orações, semelhante à de 'no entanto'.",
+    "gabarito": "E",
+    "explicacao": "'Por conseguinte' indica consequência, enquanto 'no entanto' introduz contraste. São conectores de naturezas distintas."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) No texto administrativo, é adequado substituir 'a fim de' por 'afim de', visto que ambas as formas são equivalentes e intercambiáveis.",
+    "gabarito": "E",
+    "explicacao": "'A fim de' indica finalidade; 'afim' é adjetivo que expressa afinidade. A substituição compromete a correção e o sentido."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) A construção 'é necessário que os servidores atualizem seus cadastros' está correta quanto à regência e à concordância verbal.",
+    "gabarito": "C",
+    "explicacao": "O verbo 'ser' permanece no singular quando seguido de oração subordinada com sujeito oracional. A forma está adequada."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) Em 'Apesar de terem sido notificados, os licitantes não compareceram à audiência', o uso da preposição 'de' após 'apesar' é inadequado em contextos formais.",
+    "gabarito": "E",
+    "explicacao": "'Apesar de' exige obrigatoriamente a preposição 'de'. A construção apresentada está correta e gramaticalmente adequada."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) A substituição do termo 'por meio de' por 'mediante' mantém a correção gramatical e o sentido da frase: 'O pagamento será feito por meio de transferência bancária'.",
+    "gabarito": "C",
+    "explicacao": "Ambas as expressões são equivalentes em sentido instrumental e estão corretas no contexto administrativo."
+  }
+
+
+
+]

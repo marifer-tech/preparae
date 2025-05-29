@@ -117,7 +117,7 @@ img {
 }
 
 .section-title span {
-    color: var(--primary-color);
+    color: var(--success-color);
 }
 
 .section-title::after {
@@ -128,7 +128,7 @@ img {
     transform: translateX(-50%);
     width: 80px;
     height: 4px;
-    background-color: var(--secondary-color);
+    background-color: var(--success-color);
     border-radius: 2px;
 }
 
@@ -171,12 +171,6 @@ img {
 .logo img {
     height: 50px;
     margin-right: 0.5rem;
-}
-
-.logo-text {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: var(--primary-color);
 }
 
 .nav ul {
@@ -275,12 +269,6 @@ img {
 .hero-image {
     flex: 1;
     position: relative;
-}
-
-.book-3d {
-    position: relative;
-    perspective: 1000px;
-    transform-style: preserve-3d;
 }
 
 /* Stats Styles */
@@ -414,43 +402,6 @@ img {
     margin-top: 0.5rem;
 }
 
-.material-combo {
-    background-color: var(--primary-color);
-    color: var(--white);
-    padding: 2rem;
-    border-radius: 10px;
-    text-align: center;
-    margin-top: 3rem;
-}
-
-.material-combo h3 {
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-}
-
-.material-combo h3 span {
-    display: block;
-    font-size: 1.2rem;
-    font-weight: 400;
-    margin-top: 0.5rem;
-}
-
-.combo-price {
-    margin-bottom: 2rem;
-}
-
-.old-total {
-    font-size: 1.5rem;
-    text-decoration: line-through;
-    opacity: 0.8;
-}
-
-.current-total {
-    font-size: 2.5rem;
-    font-weight: 700;
-    display: block;
-}
-
 /* Diferenciais Styles */
 .diferenciais {
     padding: 5rem 0;
@@ -495,59 +446,139 @@ img {
     color: var(--primary-color);
 }
 
-/* Depoimentos Styles */
-.depoimentos {
-    padding: 5rem 0;
-    background-color: var(--gray);
+/* Seção Simulados */
+.simulados-cta {
+    padding: 6rem 0;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--dark-color) 100%);
+    color: white;
+    text-align: center;
 }
 
-.depoimentos-slider {
-    display: flex;
+.simulados-header {
+    margin-bottom: 3rem;
+}
+
+.simulados-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.simulados-destaque {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 2rem;
-    overflow-x: auto;
-    padding: 1rem 0;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: none;
+    margin-bottom: 3rem;
 }
 
-.depoimentos-slider::-webkit-scrollbar {
-    display: none;
-}
-
-.depoimento-card {
-    min-width: 350px;
-    background-color: var(--white);
+.destaque-card {
     padding: 2rem;
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 10px;
-    scroll-snap-align: start;
-}
-
-.depoimento-header {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease;
+    min-height: 220px;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    margin-bottom: 1.5rem;
+    justify-content: center;
 }
 
-.depoimento-avatar {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 1rem;
-    border: 3px solid var(--primary-color);
+.destaque-card:hover {
+    transform: translateY(-10px);
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
 }
 
-.depoimento-info h4 {
+.destaque-card i {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+}
+
+.destaque-card h3 {
+    font-size: 1.3rem;
     margin-bottom: 0.5rem;
+    color: white;
 }
 
-.depoimento-stars {
-    color: var(--warning-color);
+.destaque-card p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.95rem;
 }
 
-.depoimento-text {
-    font-style: italic;
-    color: var(--text-light);
+.simulados-actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.btn-simulados {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 1rem 2.5rem;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+}
+
+.btn-simulados i {
+    transition: transform 0.3s ease;
+}
+
+.btn-simulados:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.btn-simulados:hover i {
+    transform: translateX(5px);
+}
+
+@media (max-width: 768px) {
+    .simulados-cta {
+        padding: 4rem 0;
+    }
+    
+    .simulados-destaque {
+        grid-template-columns: 1fr;
+    }
+    
+    .destaque-card {
+        min-height: auto;
+        padding: 1.5rem;
+    }
+}
+
+/* Botão de Simulados */
+.btn-simulados {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 1rem 2.5rem;
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
+.btn-simulados:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    background-color: var(--dark-color);
+}
+
+.btn-simulados i {
+    transition: transform 0.3s ease;
+}
+
+.btn-simulados:hover i {
+    transform: translateX(5px);
 }
 
 /* FAQ Styles */
@@ -849,28 +880,24 @@ img {
     opacity: 0.8;
 }
 
-.footer-bottom p {
-    margin-bottom: 0.5rem;
-}
-
 /* Responsive Styles */
 @media (max-width: 992px) {
     .hero .container,
-    .cta .container {
+    .cta .container,
+    .simulados-cta .container {
         flex-direction: column;
         text-align: center;
     }
     
     .hero-content,
-    .cta-content {
+    .cta-content,
+    .simulados-content {
         padding-right: 0;
         margin-bottom: 3rem;
     }
     
-    .hero-buttons,
-    .hero-text {
+    .hero-buttons {
         justify-content: center;
-        margin: 0 auto 2rem;
     }
     
     .section-title {
@@ -914,10 +941,6 @@ img {
         font-size: 2.5rem;
     }
     
-    .hero-subtitle {
-        font-size: 1.2rem;
-    }
-    
     .stats .container {
         flex-direction: column;
         align-items: center;
@@ -948,11 +971,52 @@ img {
         font-size: 1.8rem;
     }
     
-    .material-combo h3 {
-        font-size: 1.5rem;
+    .simulados-destaque {
+        grid-template-columns: 1fr;
     }
-    
-    .current-total {
-        font-size: 2rem;
+}
+
+/* 3D Effects */
+.card-3d {
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card-3d:hover {
+    transform: translateY(-10px) rotateX(5deg) rotateY(5deg);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-3d:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.floating {
+    animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+    100% {
+        transform: translateY(0px);
     }
 }

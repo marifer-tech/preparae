@@ -1,0 +1,151 @@
+[
+
+  {
+    "numero": 1,
+    "texto": "(2014) Nas versões recentes do Mozilla Firefox, há um recurso que mantém o histórico de atualizações instaladas, no qual são mostrados detalhes como a data da instalação e o usuário que executou a operação.",
+    "gabarito": "E",
+    "explicacao": "O histórico mostra a data da instalação, mas não informa o usuário que executou a operação. A informação é incompleta no item."
+  },
+  {
+    "numero": 2,
+    "texto": "(2014) No Internet Explorer 10, por meio da opção Sites Sugeridos, o usuário pode registrar os sítios que considera mais importantes e recomendá-los aos seus amigos.",
+    "gabarito": "E",
+    "explicacao": "O recurso Sites Sugeridos recomenda automaticamente páginas com base nos sites visitados, mas não permite que o usuário indique diretamente páginas a amigos."
+  },
+  {
+    "numero": 3,
+    "texto": "(2014) Um dos objetivos da segurança da informação é manter a integridade dos dados, evitando-se que eles sejam apagados ou alterados sem autorização de seu proprietário.",
+    "gabarito": "C",
+    "explicacao": "Integridade de dados é um dos pilares da segurança da informação e visa impedir alterações não autorizadas."
+  },
+
+
+
+  
+  {
+    "numero": 4,
+    "texto": "(2014) Um arquivo sem conteúdo pode ser criado e armazenado no disco rígido de um computador, desde que seja nomeado no momento da criação.",
+    "gabarito": "C",
+    "explicacao": "Arquivos com tamanho 0 Kb podem ser criados, desde que tenham um nome válido. É comum em ambientes de teste e logs."
+  },
+  {
+    "numero": 5,
+    "texto": "(2025) No ambiente Windows, é possível renomear um arquivo pressionando a tecla F2 após selecioná-lo.",
+    "gabarito": "C",
+    "explicacao": "No Windows, ao selecionar um arquivo e pressionar F2, é possível alterar seu nome diretamente."
+  },
+  {
+    "numero": 6,
+    "texto": "(2025) No Microsoft Word, o atalho Ctrl + B aplica negrito ao texto selecionado.",
+    "gabarito": "C",
+    "explicacao": "O atalho Ctrl + B ativa ou desativa o negrito no Word e em outros aplicativos do Office."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) No Excel, a função =SOMA(A1:A5) calcula o número total de células não vazias no intervalo A1 a A5.",
+    "gabarito": "E",
+    "explicacao": "A função =SOMA soma os valores numéricos das células. Para contar células não vazias, usa-se =CONT.VALORES."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) O PowerPoint permite aplicar animações a elementos individuais, como textos e imagens, em slides.",
+    "gabarito": "C",
+    "explicacao": "O PowerPoint possui ferramentas de animação personalizável para objetos dentro dos slides."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) A intranet é uma rede privada interna de uma organização e geralmente não permite acesso à internet.",
+    "gabarito": "E",
+    "explicacao": "A intranet pode ter acesso controlado à internet, dependendo da configuração da rede da organização."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) O navegador Microsoft Edge é baseado no motor Chromium e oferece suporte a extensões do Google Chrome.",
+    "gabarito": "C",
+    "explicacao": "Desde 2020, o Microsoft Edge passou a usar a base Chromium, permitindo uso de extensões da Chrome Web Store."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) Ferramentas de busca como o Google utilizam palavras-chave digitadas pelo usuário para localizar informações em sites da web.",
+    "gabarito": "C",
+    "explicacao": "A busca na internet se baseia em palavras-chave, que são processadas por algoritmos para exibir resultados relevantes."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) Publicações em redes sociais como Facebook e Instagram não podem ser acessadas por mecanismos de busca como o Google.",
+    "gabarito": "E",
+    "explicacao": "Algumas publicações públicas podem sim ser indexadas por buscadores, a depender das permissões de privacidade."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A computação em nuvem permite que arquivos sejam acessados remotamente por meio da internet, sem necessidade de instalação local.",
+    "gabarito": "C",
+    "explicacao": "Esse é um dos principais recursos da nuvem: acesso remoto, escalável e independente de hardware local."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) Ao excluir um arquivo no Windows, ele é permanentemente apagado do sistema, sem passar pela Lixeira.",
+    "gabarito": "E",
+    "explicacao": "Por padrão, arquivos excluídos vão para a Lixeira, a menos que se use Shift + Delete."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) O firewall atua como uma barreira de proteção entre o computador e redes externas, bloqueando acessos não autorizados.",
+    "gabarito": "C",
+    "explicacao": "Essa é a função principal de um firewall: controlar o tráfego de dados e proteger contra acessos indevidos."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) Vírus, worms, cavalos de troia e ransomware são tipos de software legítimos usados na proteção de dados.",
+    "gabarito": "E",
+    "explicacao": "Esses são exemplos de malwares, que causam danos ao sistema, e não software de proteção."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) O antivírus é capaz de identificar e remover programas maliciosos do sistema operacional.",
+    "gabarito": "C",
+    "explicacao": "Um bom antivírus realiza varredura e remoção de softwares maliciosos conhecidos."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) O OneDrive e o Google Drive são exemplos de serviços de backup físico local oferecidos por empresas privadas.",
+    "gabarito": "E",
+    "explicacao": "Ambos são serviços de armazenamento em nuvem, e não físicos ou locais."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) Para criar uma nova pasta no Windows, pode-se clicar com o botão direito do mouse e selecionar a opção 'Nova pasta'.",
+    "gabarito": "C",
+    "explicacao": "Essa é uma das formas mais comuns de criar pastas no sistema operacional Windows."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) O histórico de navegação de um navegador é apagado automaticamente a cada 24 horas.",
+    "gabarito": "E",
+    "explicacao": "O histórico permanece salvo até que seja excluído manualmente ou configurado para limpeza automática."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) O uso de autenticação de dois fatores aumenta a segurança no acesso a serviços em nuvem.",
+    "gabarito": "C",
+    "explicacao": "O duplo fator de autenticação é uma medida eficaz para impedir acessos não autorizados."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) No Windows, a área de transferência é limpa automaticamente sempre que o sistema é reiniciado.",
+    "gabarito": "C",
+    "explicacao": "A área de transferência armazena dados temporariamente e é limpa quando o sistema é desligado ou reiniciado."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) O navegador Mozilla Firefox permite a navegação anônima por meio de uma janela específica de privacidade.",
+    "gabarito": "C",
+    "explicacao": "A Navegação Privativa do Firefox impede o registro de histórico e cookies locais durante a sessão."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) Um arquivo salvo com extensão .xlsx geralmente está associado ao programa Microsoft Word.",
+    "gabarito": "E",
+    "explicacao": "A extensão .xlsx é usada pelo Microsoft Excel, não pelo Word."
+  }
+]

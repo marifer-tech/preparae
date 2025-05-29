@@ -1,0 +1,362 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2025) A COP30, realizada em Belém (PA), marcou o avanço do Brasil na redução do desmatamento da Amazônia, com metas vinculantes assumidas pelos países participantes.",
+    "gabarito": "C",
+    "explicacao": "A COP30, sediada no Brasil em 2025, consolidou acordos globais para frear o desmatamento, com compromissos verificáveis."
+  },
+  {
+    "numero": 2,
+    "texto": "(2025) O conflito entre Rússia e Ucrânia foi resolvido em 2024 com a mediação da ONU, resultando na retirada total das tropas russas do território ucraniano.",
+    "gabarito": "E",
+    "explicacao": "Até 2025, o conflito permanece em negociação, sem solução definitiva ou retirada completa das tropas."
+  },
+  {
+    "numero": 3,
+    "texto": "(2025) A moeda digital real (DREX), lançada pelo Banco Central, substituiu o PIX como principal meio de pagamento instantâneo no Brasil.",
+    "gabarito": "E",
+    "explicacao": "O DREX é uma moeda digital para transações específicas, enquanto o PIX mantém-se como sistema de pagamento instantâneo."
+  },
+  {
+    "numero": 4,
+    "texto": "(2025) A crise migratória na fronteira entre Venezuela e Brasil intensificou-se após novas sanções econômicas impostas pelos EUA em 2024.",
+    "gabarito": "C",
+    "explicacao": "As sanções de 2024 agravaram a crise econômica venezuelana, aumentando o fluxo migratório para Roraima."
+  },
+  {
+    "numero": 5,
+    "texto": "(2025) O Brasil integra o Conselho de Segurança da ONU como membro permanente após reforma aprovada em 2024.",
+    "gabarito": "E",
+    "explicacao": "A reforma do Conselho de Segurança ainda está em discussão; o Brasil não é membro permanente em 2025."
+  },
+  {
+    "numero": 6,
+    "texto": "(2025) A União Europeia aprovou em 2024 legislação que proíbe a importação de produtos ligados ao desmatamento, impactando exportações brasileiras de carne e soja.",
+    "gabarito": "C",
+    "explicacao": "A lei europeia exige rastreabilidade de commodities, pressionando produtores brasileiros a comprovarem sustentabilidade."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) A pandemia de COVID-19 foi oficialmente declarada encerrada pela OMS em 2023, mas variantes do vírus continuam em circulação global.",
+    "gabarito": "C",
+    "explicacao": "A OMS declarou fim da emergência global em 2023, porém vigilância sanitária permanece devido a novas variantes."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) O acordo Mercosul-UE, ratificado em 2024, eliminou imediatamente todas as tarifas alfandegárias para produtos industriais e agrícolas.",
+    "gabarito": "E",
+    "explicacao": "O acordo prevê redução gradual de tarifas, com prazos de até 15 anos para setores sensíveis."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) A inteligência artificial generativa, como o ChatGPT, foi regulamentada no Brasil pela Lei de IA (14.062/2023), que proíbe seu uso em serviços públicos.",
+    "gabarito": "E",
+    "explicacao": "A lei estabelece diretrizes éticas, mas não proíbe o uso em serviços públicos, que deve seguir princípios de transparência."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) A expansão do BRICS em 2024, com a entrada de Egito e Etiópia, consolidou o grupo como alternativa ao G20 em debates econômicos globais.",
+    "gabarito": "C",
+    "explicacao": "O BRICS ampliou sua influência com novos membros, mas mantém diálogo com o G20 em temas multilaterais."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) O rompimento de barragens em Minas Gerais em 2024 repetiu o desastre de Mariana (2015), com a mesma empresa responsável pelas duas tragédias.",
+    "gabarito": "E",
+    "explicacao": "O evento de 2024 envolveu outra empresa, embora tenha ocorrido na mesma região."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) A taxa de desemprego no Brasil atingiu o menor nível da década em 2024, impulsionada pelo crescimento do setor de serviços e tecnologia.",
+    "gabarito": "C",
+    "explicacao": "Dados do IBGE confirmam redução do desemprego para 7,3% em 2024, com destaque para TI e comércio."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A Corte Interamericana de Direitos Humanos condenou o Brasil em 2024 por violações aos direitos indígenas na demarcação da Terra Yanomami.",
+    "gabarito": "C",
+    "explicacao": "A sentença exigiu medidas urgentes para proteger a região, afetada por garimpo ilegal e desassistência."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) O programa 'Luz para Todos' foi reativado em 2024 para universalizar o acesso à energia solar em comunidades remotas do Nordeste.",
+    "gabarito": "E",
+    "explicacao": "O programa foca em energia elétrica convencional; projetos de solar são tratados em iniciativas separadas."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) A China superou os EUA como maior parceiro comercial do Brasil em 2024, com recorde nas exportações de minério de ferro e petróleo.",
+    "gabarito": "C",
+    "explicacao": "Dados do MDIC confirmam China como destino de 32% das exportações brasileiras em 2024."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) O Sistema Único de Saúde (SUS) implementou em 2024 a telemedicina obrigatória para todas as consultas de rotina, reduzindo filas em postos.",
+    "gabarito": "E",
+    "explicacao": "A telemedicina é opcional e complementar, conforme regulamentação do CFM."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) A crise hídrica no Distrito Federal em 2024 levou ao racionamento de água por 120 dias, afetando órgãos públicos federais.",
+    "gabarito": "C",
+    "explicacao": "O DF decretou estado de emergência hídrica, com rodízio no fornecimento até março/2025."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) A Lei de Liberdade Econômica (13.874/2019) permitiu a abertura de empresas em 24 horas em todos os municípios brasileiros.",
+    "gabarito": "E",
+    "explicacao": "A implementação depende de adesão local; 71% dos municípios adotaram o sistema até 2025."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) O Fundo Amazônia recebeu aporte recorde de US$ 1 bi em 2024, majoritariamente da Noruega, para projetos de bioeconomia.",
+    "gabarito": "C",
+    "explicacao": "A Noruega retomou repasses após comprovação da queda no desmatamento em 2023."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) A inflação no Brasil encerrou 2024 dentro do centro da meta do Banco Central (3,25%), influenciada pela queda nos preços dos alimentos.",
+    "gabarito": "E",
+    "explicacao": "A inflação ficou em 4,1% em 2024, acima do centro da meta (3%), embora alimentos tenham efetivamente reduzido preços."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) O satélite Amazônia-2, lançado em 2024, ampliou a capacidade de monitoramento do desmatamento em tempo real pelo INPE.",
+    "gabarito": "C",
+    "explicacao": "O satélite brasileiro fornece imagens diárias de alta resolução para fiscalização ambiental."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) A Argentina adotou o real brasileiro como moeda oficial em 2024, substituindo o peso, após crise hiperinflacionária.",
+    "gabarito": "E",
+    "explicacao": "A Argentina dollarizou sua economia, mas não adotou o real."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) O STF decidiu em 2024 que estados podem legislar sobre porte de armas, contrariando decretos federais sobre o tema.",
+    "gabarito": "E",
+    "explicacao": "O STF manteve a competência federal sobre políticas de armas, invalidando leis estaduais contrárias."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) A Índia tornou-se a terceira maior economia do mundo em 2024, ultrapassando a Alemanha e o Japão.",
+    "gabarito": "C",
+    "explicacao": "Dados do FMI confirmam o crescimento indiano, impulsionado por tecnologia e demografia."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) O Brasil sediará a Copa do Mundo de 2027, após acordo com a FIFA para antecipar o evento originalmente previsto para 2030.",
+    "gabarito": "E",
+    "explicacao": "A Copa de 2030 será em três continentes (México, EUA, Canadá); o Brasil não apresentou candidatura para 2027."
+  },
+  {
+    "numero": 26,
+    "texto": "(2025) A Zona de Processamento de Exportação (ZPE) no Ceará atraiu 15 multinacionais em 2024, com isenção total de impostos federais.",
+    "gabarito": "C",
+    "explicacao": "As ZPEs oferecem benefícios fiscais para empresas que exportam 80% da produção."
+  },
+  {
+    "numero": 27,
+    "texto": "(2025) O Marco Legal do Saneamento Básico (Lei 14.026/2020) universalizou o acesso à água potável em todas as capitais brasileiras até 2024.",
+    "gabarito": "E",
+    "explicacao": "A meta é universalizar até 2033; em 2024, apenas 60% das cidades tinham cobertura total."
+  },
+  {
+    "numero": 28,
+    "texto": "(2025) A Coreia do Norte realizou testes com mísseis hipersônicos sobre o Pacífico em 2024, violando resoluções da ONU.",
+    "gabarito": "C",
+    "explicacao": "Os testes foram condenados pelo Conselho de Segurança, mas sem novas sanções devido a vetos."
+  },
+  {
+    "numero": 29,
+    "texto": "(2025) O Enem Digital foi adotado como formato exclusivo em 2024, eliminando a versão impressa do exame.",
+    "gabarito": "E",
+    "explicacao": "O MEC manteve as duas modalidades, com 30% das vagas no digital em 2024."
+  },
+  {
+    "numero": 30,
+    "texto": "(2025) A Polícia Federal deflagrou em 2024 a Operação Lava Jato 2.0, investigando novos esquemas de corrupção em estatais.",
+    "gabarito": "E",
+    "explicacao": "Não houve 'Lava Jato 2.0'; novas operações têm nomes distintos e focos diferentes."
+  },
+  {
+    "numero": 31,
+    "texto": "(2025) A Organização Mundial do Comércio (OMC) aprovou em 2024 um acordo global para eliminar subsídios à pesca predatória, com adesão imediata do Brasil.",
+    "gabarito": "C",
+    "explicacao": "O acordo foi ratificado pelo Brasil em 2024, visando sustentabilidade dos oceanos."
+  },
+  {
+    "numero": 32,
+    "texto": "(2025) O Programa Nacional de Alimentação Escolar (PNAE) passou a permitir, desde 2024, a compra de alimentos ultraprocessados para merendas, devido a ajustes orçamentários.",
+    "gabarito": "E",
+    "explicacao": "O PNAE mantém a proibição de ultraprocessados, priorizando alimentos frescos e da agricultura familiar."
+  },
+  {
+    "numero": 33,
+    "texto": "(2025) O Brasil assumiu a presidência do G20 em 2024, com foco em agendas climáticas e reforma da governança global.",
+    "gabarito": "C",
+    "explicacao": "O país liderou o G20 em 2024, propondo temas como biocombustíveis e comércio sustentável."
+  },
+  {
+    "numero": 34,
+    "texto": "(2025) A Lei Geral de Proteção de Dados (LGPD) foi revogada em 2024 por conflitar com o Marco Civil da Internet.",
+    "gabarito": "E",
+    "explicacao": "As leis são complementares; a LGPD segue em vigor com multas por vazamento de dados."
+  },
+  {
+    "numero": 35,
+    "texto": "(2025) O fenômeno El Niño em 2024 causou secas no Sul do Brasil e enchentes no Nordeste, invertendo padrões climáticos históricos.",
+    "gabarito": "C",
+    "explicacao": "O El Niño de 2023-2024 alterou regimes de chuvas, conforme alertas do INMET."
+  },
+  {
+    "numero": 36,
+    "texto": "(2025) O Conselho Nacional de Justiça (CNJ) aprovou em 2024 a obrigatoriedade de audiências virtuais em todos os processos judiciais brasileiros.",
+    "gabarito": "E",
+    "explicacao": "A decisão permite audiências virtuais, mas não as torna obrigatórias em todos os casos."
+  },
+  {
+    "numero": 37,
+    "texto": "(2025) A União Europeia incluiu o Brasil na 'lista negra' de países que não combatem o desmatamento, suspendendo importações de carne bovina.",
+    "gabarito": "E",
+    "explicacao": "O Brasil não foi incluído na lista, mas enfrenta pressões por maior rastreabilidade."
+  },
+  {
+    "numero": 38,
+    "texto": "(2025) O Ministério da Justiça criou em 2024 a Força-Tarefa de Combate ao Crime Organizado na Amazônia, integrando Polícia Federal e Forças Armadas.",
+    "gabarito": "C",
+    "explicacao": "A operação foi lançada para combater garimpo ilegal e tráfico de drogas na região."
+  },
+  {
+    "numero": 39,
+    "texto": "(2025) A taxa de homicídios no Brasil atingiu o menor patamar em 15 anos em 2024, segundo o Fórum Brasileiro de Segurança Pública.",
+    "gabarito": "C",
+    "explicacao": "Dados indicam redução de 8% nos homicídios, associada a políticas de controle de armas."
+  },
+  {
+    "numero": 40,
+    "texto": "(2025) O acordo entre Mercosul e Singapura, firmado em 2024, isentou tarifas para 90% dos produtos industriais brasileiros.",
+    "gabarito": "C",
+    "explicacao": "O tratado ampliou acesso a mercados asiáticos, com redução gradual de tarifas."
+  },
+  {
+    "numero": 41,
+    "texto": "(2025) A NASA confirmou em 2024 a descoberta de água líquida em Marte, aumentando expectativas sobre colonização humana.",
+    "gabarito": "E",
+    "explicacao": "A NASA detectou sinais de água passada, mas não líquida em superfície atualmente."
+  },
+  {
+    "numero": 42,
+    "texto": "(2025) O STF decidiu que estados podem legislar sobre aborto, permitindo a descriminalização em regiões específicas do país.",
+    "gabarito": "E",
+    "explicacao": "O STF mantém competência federal sobre o tema; não há legislação estadual divergente."
+  },
+  {
+    "numero": 43,
+    "texto": "(2025) O Banco Central lançou em 2024 o Real Digital (DREX) para substituir o dinheiro em espécie até 2030.",
+    "gabarito": "E",
+    "explicacao": "O DREX é complementar ao dinheiro físico, não um substituto."
+  },
+  {
+    "numero": 44,
+    "texto": "(2025) A Polícia Federal adotou em 2024 algoritmos de IA para priorizar investigações de crimes financeiros, com base em padrões de movimentação suspeita.",
+    "gabarito": "C",
+    "explicacao": "Sistemas como COI (Centro de Operações Inteligentes) usam IA para análise de dados."
+  },
+  {
+    "numero": 45,
+    "texto": "(2025) A pandemia de H3N2 em 2024 levou o Brasil a decretar emergência sanitária, com lockdown em capitais.",
+    "gabarito": "E",
+    "explicacao": "Houve aumento de casos, mas sem medidas extremas como lockdown."
+  },
+  {
+    "numero": 46,
+    "texto": "(2025) O Programa Internet Brasil, ampliado em 2024, garantiu banda larga gratuita para todas as escolas públicas do país.",
+    "gabarito": "E",
+    "explicacao": "O programa atendeu 40% das escolas até 2025, com meta de 100% até 2026."
+  },
+  {
+    "numero": 47,
+    "texto": "(2025) A Rússia foi suspensa do Conselho de Segurança da ONU após invasão da Ucrânia em 2022, perdendo direito a veto.",
+    "gabarito": "E",
+    "explicacao": "Não há mecanismo legal para remover membros permanentes do Conselho."
+  },
+  {
+    "numero": 48,
+    "texto": "(2025) O Brasil exportou pela primeira vez em 2024 trigo transgênico para a China, após aprovação da CTNBio.",
+    "gabarito": "C",
+    "explicacao": "O país diversificou exportações agrícolas com novas tecnologias."
+  },
+  {
+    "numero": 49,
+    "texto": "(2025) A Lei de Migrações (13.445/2017) foi alterada em 2024 para restringir entrada de venezuelanos no território brasileiro.",
+    "gabarito": "E",
+    "explicacao": "A lei não foi modificada; o Brasil mantém políticas humanitárias para refugiados."
+  },
+  {
+    "numero": 50,
+    "texto": "(2025) O Fundeb tornou-se permanente em 2024, com aumento de recursos para educação básica em municípios pobres.",
+    "gabarito": "C",
+    "explicacao": "Emenda Constitucional 132/2023 tornou o fundo permanente, com mais verbas."
+  },
+  {
+    "numero": 51,
+    "texto": "(2025) A Índia superou a China como país mais populoso do mundo em 2023, segundo relatório da ONU.",
+    "gabarito": "C",
+    "explicacao": "Dados demográficos confirmam a Índia como líder em população desde 2023."
+  },
+  {
+    "numero": 52,
+    "texto": "(2025) O Marco Temporal para demarcação de terras indígenas foi derrubado pelo STF em 2023, permitindo novas áreas homologadas.",
+    "gabarito": "C",
+    "explicacao": "A decisão do STF considerou inconstitucional o marco temporal (ADPF 803)."
+  },
+  {
+    "numero": 53,
+    "texto": "(2025) O governo federal zerou impostos sobre livros em 2024, incluindo e-books e plataformas digitais.",
+    "gabarito": "E",
+    "explicacao": "A isenção já existia para livros físicos, mas e-books ainda são tributados."
+  },
+  {
+    "numero": 54,
+    "texto": "(2025) A Argentina aderiu ao Novo Banco de Desenvolvimento do BRICS em 2024, obtendo empréstimos para infraestrutura.",
+    "gabarito": "C",
+    "explicacao": "O país tornou-se membro pleno do banco em 2024."
+  },
+  {
+    "numero": 55,
+    "texto": "(2025) A Cúpula do Clima de Dubai (2023) estabeleceu meta global para triplicar energia renovável até 2030, com adesão do Brasil.",
+    "gabarito": "C",
+    "explicacao": "O país comprometeu-se a ampliar solar e eólica, mas mantendo hidrelétricas."
+  },
+  {
+    "numero": 56,
+    "texto": "(2025) O Senado aprovou em 2024 a PEC que torna crimes de corrupção inafiançáveis, com apoio unânime dos partidos.",
+    "gabarito": "E",
+    "explicacao": "A PEC foi arquivada após divergências sobre abrangência dos crimes."
+  },
+  {
+    "numero": 57,
+    "texto": "(2025) A China iniciou em 2024 testes com trens supersônicos (600 km/h), utilizando tecnologia desenvolvida no Brasil.",
+    "gabarito": "E",
+    "explicacao": "Os trens são chineses; o Brasil não participou do desenvolvimento."
+  },
+  {
+    "numero": 58,
+    "texto": "(2025) O Brasil registrou superávit recorde na balança comercial em 2024, impulsionado por commodities agrícolas.",
+    "gabarito": "C",
+    "explicacao": "Dados do MDIC mostram US$ 100 bi de superávit, com destaque para soja e minério."
+  },
+  {
+    "numero": 59,
+    "texto": "(2025) O TikTok foi banido no Brasil em 2024 por determinação do STF, devido a riscos à privacidade de dados.",
+    "gabarito": "E",
+    "explicacao": "O app segue operando, sob fiscalização da ANPD."
+  },
+  {
+    "numero": 60,
+    "texto": "(2025) A Polícia Federal passou a usar drones com reconhecimento facial em fronteiras, reduzindo crimes transfronteiriços em 30%.",
+    "gabarito": "C",
+    "explicacao": "Tecnologia implementada em 2024 no âmbito da Estratégia Nacional de Segurança."
+  }
+]

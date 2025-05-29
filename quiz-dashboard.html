@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Questionário PF - Agente Administrativo</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/simulados.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+   <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="assets/images/logo.png" alt="Ebooks PF - Agente Administrativo">
+                <img src="assets/images/hotmart.png" alt="Ebooks PF - Agente Administrativo">
+
+            </div>
+
+            <nav class="nav">
+                <ul>
+                    <li><a href="#home" class="nav-link">Início</a></li>
+                    <li><a href="#materiais" class="nav-link">Materiais</a></li>
+                    <li><a href="#depoimentos" class="nav-link">Depoimentos</a></li>
+                    <li><a href="#" class="nav-link">Simulados</a></li>
+                    <li><a href="#contato" class="nav-link">Contato</a></li>
+                </ul>
+            </nav>
+            <div class="mobile-menu">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+  <main class="container">
+    <section>
+      <br>
+      <h2><i class="fas fa-book-open"></i> Conhecimentos Básicos</h2>
+      <div class="areas-container">
+        <div class="area-card" onclick="setArea('disciplinas/basicos/portugues')">
+          <div class="card-content">
+            <h3><i class="fas fa-language"></i> Língua Portuguesa <span class="badge">questões</span></h3>
+            <p>Domine a gramática e interpretação de textos para a prova.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/basicos/informatica')">
+          <div class="card-content">
+            <h3><i class="fas fa-laptop-code"></i> Noções de Informática <span class="badge">questões</span></h3>
+            <p>Conceitos fundamentais de informática para o serviço público.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/basicos/logica')">
+          <div class="card-content">
+            <h3><i class="fas fa-brain"></i> Raciocínio Lógico <span class="badge">questões</span></h3>
+            <p>Desenvolva sua capacidade de análise e resolução de problemas.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/basicos/atualidades')">
+          <div class="card-content">
+            <h3><i class="fas fa-newspaper"></i> Atualidades <span class="badge">questões</span></h3>
+            <p>Fique por dentro dos principais acontecimentos nacionais e internacionais.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/basicos/etica')">
+          <div class="card-content">
+            <h3><i class="fas fa-balance-scale"></i> Ética no Serviço Público <span class="badge">questões</span></h3>
+            <p>Princípios éticos e conduta profissional no serviço público.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2><i class="fas fa-graduation-cap"></i> Conhecimentos Específicos</h2>
+      <div class="areas-container">
+        <div class="area-card" onclick="setArea('disciplinas/especificos/direitoconstitucional')">
+          <div class="card-content">
+            <h3><i class="fas fa-gavel"></i> Direito Constitucional <span class="badge">questões</span></h3>
+            <p>Conhecimentos essenciais sobre a Constituição Federal.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/especificos/direitoadministrativo')">
+          <div class="card-content">
+            <h3><i class="fas fa-file-contract"></i> Direito Administrativo <span class="badge">questões</span></h3>
+            <p>Princípios e normas que regem a administração pública.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/especificos/governanca')">
+          <div class="card-content">
+            <h3><i class="fas fa-landmark"></i> Governança Pública <span class="badge">questões</span></h3>
+            <p>Modelos e práticas de governança no setor público.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/especificos/gestaodepessoas')">
+          <div class="card-content">
+            <h3><i class="fas fa-users"></i> Gestão de Pessoas <span class="badge">questões</span></h3>
+            <p>Processos e políticas de gestão de pessoas no serviço público.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/especificos/gestaocontratos')">
+          <div class="card-content">
+            <h3><i class="fas fa-file-signature"></i> Gestão de Contratos <span class="badge">questões</span></h3>
+            <p>Noções sobre licitações e contratos administrativos.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+        
+        <div class="area-card" onclick="setArea('disciplinas/especificos/legislacaopf')">
+          <div class="card-content">
+            <h3><i class="fas fa-scale-balanced"></i> Legislação Aplicada <span class="badge">questões</span></h3>
+            <p>Legislação específica da Polícia Federal.</p>
+            <a href="quiz.html"><button class="btn">Responder Questionário <i class="fas fa-arrow-right"></i></button></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Simulado PF. Desenvolvido por Mariana Fernanda da Silva.</p>
+    </div>
+  </footer>
+
+  <script>
+    function setArea(area) {
+      localStorage.setItem('areaSelecionada', area);
+    }
+  </script>
+
+</body>
+</html>

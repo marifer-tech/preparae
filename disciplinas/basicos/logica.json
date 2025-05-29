@@ -1,0 +1,88 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2025) A negação da proposição 'Se está calor, então ligarei o ventilador' está corretamente expressa por: 'Está calor e não ligarei o ventilador'.",
+    "gabarito": "C",
+    "explicacao": "A negação de uma condicional (P → Q) é: P ∧ ¬Q, ou seja, 'está calor e não ligarei o ventilador'."
+  },
+  {
+    "numero": 2,
+    "texto": "(2025) A negação da proposição 'Pedro é estudante ou Maria é professora' pode ser corretamente expressa por: 'Pedro não é estudante e Maria não é professora'.",
+    "gabarito": "C",
+    "explicacao": "A negação de (P ∨ Q) é (¬P ∧ ¬Q), segundo a Lei de De Morgan."
+  },
+  {
+    "numero": 3,
+    "texto": "(2025) Se a proposição 'Todos os servidores são pontuais' é verdadeira, então a proposição 'Existe servidor que não é pontual' será falsa.",
+    "gabarito": "C",
+    "explicacao": "A negação de 'Todos são...' é 'Existe... que não é...'. Assim, se a universal for verdadeira, sua negação é falsa."
+  },
+  {
+    "numero": 4,
+    "texto": "(2025) A proposição 'Se João trabalha, então ele recebe salário' é logicamente equivalente à proposição 'João não trabalha ou ele recebe salário'.",
+    "gabarito": "C",
+    "explicacao": "A equivalência clássica da condicional P → Q é ¬P ∨ Q."
+  },
+  {
+    "numero": 5,
+    "texto": "(2025) A proposição 'Ana estuda lógica e matemática' tem como negação: 'Ana não estuda lógica e não estuda matemática'.",
+    "gabarito": "E",
+    "explicacao": "A negação de (P ∧ Q) é (¬P ∨ ¬Q), segundo De Morgan. O item apresenta (¬P ∧ ¬Q), que é incorreto."
+  },
+  {
+    "numero": 6,
+    "texto": "(2025) A proposição 'Se Carlos viaja, então ele se diverte' será falsa apenas se Carlos viajar e não se divertir.",
+    "gabarito": "C",
+    "explicacao": "A condicional é falsa apenas quando o antecedente é verdadeiro e o consequente é falso (P ∧ ¬Q)."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) A forma lógica da frase 'ou chove ou faz sol' pode ser interpretada como uma disjunção exclusiva.",
+    "gabarito": "E",
+    "explicacao": "No português comum, 'ou... ou...' é frequentemente inclusiva. Para exclusividade, deve-se usar conectivos específicos ou contexto."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) A tabela verdade da proposição 'P e não Q' possui ao menos uma linha com valor lógico verdadeiro.",
+    "gabarito": "C",
+    "explicacao": "A proposição P ∧ ¬Q é verdadeira quando P é verdadeira e Q é falsa. Isso ocorre em uma das quatro combinações possíveis."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) A proposição 'Se Maria não sair de casa, então choverá' admite contrapositiva 'Se não chover, então Maria sairá de casa'.",
+    "gabarito": "C",
+    "explicacao": "A contrapositiva de P → Q é ¬Q → ¬P. Aplica-se à proposição invertendo e negando os termos."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) A proposição 'Não é verdade que João é médico ou advogado' é logicamente equivalente a 'João não é médico e não é advogado'.",
+    "gabarito": "C",
+    "explicacao": "Aplica-se a negação de disjunção: ¬(P ∨ Q) ≡ (¬P ∧ ¬Q)."
+  },
+  {
+    "numero": 11,
+    "texto": "(2014) A negação da proposição P está corretamente expressa por “Basta à mulher de César ser honesta, ela não precisa parecer honesta”.",
+    "gabarito": "E",
+    "explicacao": "A proposição P equivale a p ∧ q. A negação correta de p ∧ q é ¬p ∨ ¬q, não ¬p ∧ ¬q como no item."
+  },
+  {
+    "numero": 12,
+    "texto": "(2014) Se a proposição “Basta à mulher de César ser honesta” for falsa e a proposição “A mulher de César precisa parecer honesta” for verdadeira, então a proposição P será verdadeira.",
+    "gabarito": "C",
+    "explicacao": "Se 'Basta ser honesta' é falsa, então 'Não basta' é verdadeira. Como 'precisa parecer honesta' também é verdadeira, temos p ∧ q = verdadeiro."
+  },
+  {
+    "numero": 13,
+    "texto": "(2014) Se a proposição “A mulher de César é honesta” for falsa e a proposição “A mulher de César parece honesta” for verdadeira, então a proposição P será verdadeira.",
+    "gabarito": "E",
+    "explicacao": "As premissas do item não se alinham com os verbos da proposição P (bastar, precisar), portanto, não é possível inferir valor lógico com base nelas."
+  },
+  {
+    "numero": 14,
+    "texto": "(2014) A negação da proposição P está corretamente expressa por “Basta à mulher de César ser honesta ou ela não precisa parecer honesta”.",
+    "gabarito": "C",
+    "explicacao": "Aplicando De Morgan à proposição P = p ∧ q, temos ¬p ∨ ¬q, que é justamente a estrutura apresentada no item."
+  }
+]
+
+

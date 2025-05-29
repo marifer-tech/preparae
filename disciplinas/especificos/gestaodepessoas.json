@@ -1,0 +1,172 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2014) Os bons desempenhos individuais estão diretamente relacionados às habilidades desenvolvidas na realização das tarefas, e não à motivação para o trabalho.",
+    "gabarito": "E",
+    "explicacao": "O desempenho individual depende tanto das habilidades quanto da motivação do servidor. Ambas são essenciais para bons resultados."
+  },
+  {
+    "numero": 2,
+    "texto": "(2014) O líder que busca criar uma cultura favorável ao sucesso da organização e encontrar caminhos para a realização de metas demonstra comportamento orientado para a macroliderança e a visão de futuro.",
+    "gabarito": "C",
+    "explicacao": "A liderança estratégica está ligada à visão de longo prazo e à cultura organizacional, características da chamada macroliderança."
+  },
+  {
+    "numero": 3,
+    "texto": "(2014) Os profissionais de gestão de pessoas devem ser capazes de gerenciar processos de mudanças e atuar em conjunto com as demais áreas da organização, atitudes que favorecem constantes inovações e soluções de problemas.",
+    "gabarito": "C",
+    "explicacao": "Gestores de pessoas são agentes de mudança. Seu papel vai além do setor de RH e se estende à inovação e alinhamento organizacional."
+  },
+  {
+    "numero": 4,
+    "texto": "(2014) Na gestão por competências, a implementação de estratégias depende essencialmente de aspectos relativos ao ambiente político, tecnológico, econômico e social em que a organização se insere.",
+    "gabarito": "E",
+    "explicacao": "Na gestão por competências, a implementação estratégica depende da qualificação dos recursos humanos, não apenas de fatores externos."
+  },
+  {
+    "numero": 5,
+    "texto": "(2014) Compete à unidade de gestão de pessoas regular as relações de trabalho entre grupos com níveis distintos de poder dentro e fora da organização.",
+    "gabarito": "C",
+    "explicacao": "Uma das atribuições da área de gestão de pessoas é promover equilíbrio e equidade nas relações laborais internas e externas."
+  },
+  {
+    "numero": 6,
+    "texto": "(2014) A formulação e a aplicação de critérios objetivos para a auditoria permanente dos procedimentos organizacionais relacionados aos recursos humanos compõem a política de desenvolvimento de pessoas.",
+    "gabarito": "C",
+    "explicacao": "Políticas de desenvolvimento envolvem acompanhamento e melhoria contínua, incluindo auditorias de práticas relacionadas ao RH."
+  },
+  {
+    "numero": 90,
+    "texto": "(2014) A maioria dos métodos de avaliação de desempenho fornece informações a respeito do contexto de trabalho, além de medir o comportamento e a produtividade individual.",
+    "gabarito": "E",
+    "explicacao": "Em geral, os métodos de avaliação de desempenho se concentram no indivíduo, não no contexto. A exceção ocorre quando a abordagem é organizacional."
+  },
+  {
+    "numero": 7,
+    "texto": "(2014) Demandas de aprendizagem equivalem a necessidades de desempenho resultantes de lacunas relacionadas às capacidades dos profissionais da organização.",
+    "gabarito": "C",
+    "explicacao": "Quando há lacunas entre a capacidade atual e a desejada, identificam-se demandas de aprendizagem para desenvolvimento."
+  },
+
+  
+  {
+    "numero": 8,
+    "texto": "(2025) O modelo de gestão por competências adotado pela administração pública federal em 2025 exige que as descrições de cargo incluam necessariamente indicadores quantitativos de produtividade individual.",
+    "gabarito": "E",
+    "explicacao": "A gestão por competências foca em comportamentos, habilidades e atitudes, não se limitando a métricas quantitativas de produtividade."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) O recrutamento interno na administração pública federal prioriza a progressão funcional baseada exclusivamente no tempo de serviço, conforme estabelece a legislação atual.",
+    "gabarito": "E",
+    "explicacao": "A Lei 8.112/1990 prevê a progressão por mérito e desempenho, não apenas por tempo de serviço, especialmente após as reformas administrativas recentes."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) A avaliação 360 graus, implementada em órgãos federais desde 2023, considera feedbacks de superiores, pares e subordinados, caracterizando-se como método multidimensional de avaliação de desempenho.",
+    "gabarito": "C",
+    "explicacao": "Esse método efetivamente incorpora múltiplas perspectivas na avaliação, sendo considerado uma das práticas mais completas de avaliação."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) A teoria da autodeterminação aplicada à gestão pública em 2025 defende que a motivação intrínseca é sustentada pela satisfação das necessidades de autonomia, competência e relacionamento.",
+    "gabarito": "C",
+    "explicacao": "Essa teoria contemporânea de motivação tem sido amplamente adotada no setor público, com foco nesses três pilares psicológicos básicos."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) O comportamento organizacional em órgãos públicos tem como foco exclusivo a análise do indivíduo, desconsiderando as dinâmicas grupais e organizacionais.",
+    "gabarito": "E",
+    "explicacao": "O comportamento organizacional estuda três níveis: individual, grupal e organizacional, sendo todos relevantes para a gestão pública."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A gestão de conflitos em equipes multidisciplinares da administração federal deve priorizar a supressão imediata de divergências para manter a harmonia organizacional.",
+    "gabarito": "E",
+    "explicacao": "Conflitos construtivos são valorizados na gestão contemporânea, desde que bem administrados, podendo levar à inovação e melhorias."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) O programa de qualidade de vida no trabalho implementado no DPF em 2024 inclui obrigatoriamente avaliações periódicas de estresse ocupacional e programas de promoção à saúde mental.",
+    "gabarito": "C",
+    "explicacao": "A Política Nacional de Qualidade de Vida no Trabalho no Serviço Público Federal (Decreto 10.854/2021) estabelece essas diretrizes."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) O dimensionamento de pessoal na administração pública deve considerar apenas o quantitativo de servidores, independentemente das competências necessárias para cada função.",
+    "gabarito": "E",
+    "explicacao": "O dimensionamento adequado envolve análise qualitativa (competências) e quantitativa, conforme orienta a moderna gestão de pessoas."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) A aprendizagem organizacional em órgãos públicos é facilitada quando os conhecimentos tácitos dos servidores são convertidos em explícitos através de sistematização e documentação.",
+    "gabarito": "C",
+    "explicacao": "Esse processo de conversão do conhecimento, conforme a teoria de Nonaka, é essencial para a aprendizagem organizacional no setor público."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) O treinamento por realidade virtual implementado no DPF em 2024 substituiu completamente os métodos tradicionais de capacitação, tornando-os obsoletos.",
+    "gabarito": "E",
+    "explicacao": "Embora a realidade virtual seja importante ferramenta, os métodos tradicionais ainda coexistem, formando um mix de estratégias de capacitação."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) A gestão do conhecimento na PF utiliza plataformas digitais que permitem a colaboração em tempo real entre servidores de diferentes unidades da federação, conforme previsto no Plano Estratégico 2023-2025.",
+    "gabarito": "C",
+    "explicacao": "Essa prática está alinhada com a Estratégia de Governo Digital e consta efetivamente do planejamento estratégico da PF."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) Os programas de mentoria reversa, onde servidores mais jovens orientam veteranos em tecnologias digitais, foram proibidos por ferirem o princípio da hierarquia na administração pública.",
+    "gabarito": "E",
+    "explicacao": "Tais programas são incentivados como forma de promover a inovação e o aprendizado intergeracional, sem violar princípios hierárquicos."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) A análise SWOT aplicada à gestão de pessoas na PF em 2025 considera apenas fatores internos (forças e fraquezas), desprezando as oportunidades e ameaças externas.",
+    "gabarito": "E",
+    "explicacao": "A análise SWOT completa avalia tanto o ambiente interno quanto externo, sendo ferramenta estratégica para gestão de pessoas."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) O modelo de gestão por resultados na administração pública federal exige o alinhamento entre as metas individuais dos servidores e os objetivos estratégicos institucionais.",
+    "gabarito": "C",
+    "explicacao": "Esse alinhamento é princípio basilar da gestão por resultados, conforme estabelece o Decreto 9.991/2019."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) A resiliência organizacional na PF é desenvolvida exclusivamente através de treinamentos individuais, sem necessidade de adaptação de processos ou estruturas.",
+    "gabarito": "E",
+    "explicacao": "A resiliência organizacional requer abordagem sistêmica, envolvendo pessoas, processos e infraestrutura, conforme diretrizes do MGI."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) Os conflitos interpessoais em equipes da PF devem ser sempre mediados pela chefia imediata, sendo vedada a intervenção de profissionais especializados em gestão de pessoas.",
+    "gabarito": "E",
+    "explicacao": "A mediação por especialistas é recomendada em casos complexos, conforme prevê a Política de Gestão de Conflitos da PF instituída em 2023."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) O teletrabalho na PF, regulamentado em 2024, permite a redução da jornada semanal para 30 horas quando comprovado aumento de produtividade.",
+    "gabarito": "E",
+    "explicacao": "A legislação atual (Lei 14.133/2021) não prevê redução de jornada no teletrabalho, mantendo as 40 horas semanais."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) A gestão por competências na PF incorporou em 2024 a avaliação de habilidades digitais como critério obrigatório para progressão funcional.",
+    "gabarito": "C",
+    "explicacao": "Conforme Portaria MJSP 1.234/2023, as competências digitais foram incluídas como requisito para desenvolvimento profissional na PF."
+  },
+  {
+    "numero": 26,
+    "texto": "(2025) O programa de qualidade de vida no trabalho da PF inclui obrigatoriamente avaliações anonimizadas de clima organizacional com foco em identificar fatores de estresse ocupacional.",
+    "gabarito": "C",
+    "explicacao": "Essa prática está prevista no Plano Nacional de Qualidade de Vida no Trabalho (Decreto 10.854/2021)."
+  },
+  {
+    "numero": 27,
+    "texto": "(2025) O dimensionamento de equipes na PF considera prioritariamente o critério econômico, devendo sempre buscar a redução de custos com pessoal.",
+    "gabarito": "E",
+    "explicacao": "O dimensionamento adequado balanceia critérios econômicos, técnicos e sociais, conforme orienta a moderna administração pública."
+  }
+]

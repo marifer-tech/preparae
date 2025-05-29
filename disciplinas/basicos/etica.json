@@ -1,0 +1,182 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2025) Segundo o Decreto 1.171/1994, o servidor público deve priorizar o interesse privado sobre o público quando houver conflito entre ambos, desde que justificado.",
+    "gabarito": "E",
+    "explicacao": "O Código de Ética determina que o interesse público deve sempre prevalecer (Art. 2º, IV)."
+  },
+  {
+    "numero": 2,
+    "texto": "(2025) A moral está relacionada a normas sociais e culturais, enquanto a ética refere-se a princípios universais de conduta profissional.",
+    "gabarito": "C",
+    "explicacao": "Moral varia conforme o contexto cultural; a ética profissional é normativa e aplicável a todos."
+  },
+  {
+    "numero": 3,
+    "texto": "(2025) Pela Lei 8.429/1992, o ato de improbidade administrativa que causa enriquecimento ilícito do agente público é classificado como improbidade por violação aos princípios da administração.",
+    "gabarito": "E",
+    "explicacao": "É improbidade por **enriquecimento ilícito** (Art. 9º). A violação aos princípios está no Art. 11."
+  },
+  {
+    "numero": 4,
+    "texto": "(2025) Conforme a Lei 8.112/1990, a suspensão do servidor público por até 90 dias é uma penalidade prevista no regime disciplinar.",
+    "gabarito": "C",
+    "explicacao": "A suspensão é prevista no Art. 127, II, com limite de 90 dias (Art. 128)."
+  },
+  {
+    "numero": 5,
+    "texto": "(2025) O princípio da impessoalidade, segundo o Decreto 1.171/1994, proíbe o servidor de utilizar sua posição para obter vantagens pessoais, mesmo que indiretas.",
+    "gabarito": "C",
+    "explicacao": "O Art. 5º do Código de Ética veda o uso do cargo para benefício próprio ou de terceiros."
+  },
+  {
+    "numero": 6,
+    "texto": "(2025) A Lei 12.813/2013 (Conflito de Interesses) permite que servidores públicos decidam sobre processos que envolvam parentes até o 2º grau, desde que declarado o vínculo.",
+    "gabarito": "E",
+    "explicacao": "A lei exige **impedimento** do servidor em casos de conflito, incluindo parentes até 3º grau (Art. 3º)."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) A demissão é penalidade aplicável a servidor estável apenas após processo administrativo disciplinar (PAD), conforme a Lei 8.112/1990.",
+    "gabarito": "C",
+    "explicacao": "A demissão exige PAD para servidores estáveis (Art. 132, Lei 8.112/1990)."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) Segundo o Código de Ética (Decreto 1.171/1994), o servidor pode aceitar presentes de valor simbólico de fornecedores do órgão onde trabalha, desde que não influencie suas decisões.",
+    "gabarito": "E",
+    "explicacao": "O Art. 6º proíbe qualquer presente que possa comprometer a isenção do servidor."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) A Lei 8.429/1992 prevê que o agente público condenado por improbidade administrativa pode perder a função pública, mas mantém seus direitos políticos.",
+    "gabarito": "E",
+    "explicacao": "A pena de **suspensão dos direitos políticos** é prevista no Art. 12, I, da Lei 8.429/1992."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) A ética na democracia pressupõe que o servidor público promova a participação popular e a transparência, conforme o Decreto 1.171/1994.",
+    "gabarito": "C",
+    "explicacao": "O Código de Ética reforça o dever de fortalecer a democracia (Art. 2º, VI)."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) Pela Lei 8.112/1990, a advertência é penalidade aplicável apenas a servidores não estáveis.",
+    "gabarito": "E",
+    "explicacao": "A advertência (Art. 127, I) aplica-se a todos os servidores, independentemente da estabilidade."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) O servidor que omite informação para beneficiar terceiro pratica ato de improbidade por violação ao princípio da moralidade (Lei 8.429/1992).",
+    "gabarito": "C",
+    "explicacao": "A omissão dolosa caracteriza improbidade (Art. 11, Lei 8.429/1992)."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A Lei 12.813/2013 determina que o servidor deve se afastar temporariamente do cargo ao assumir atividade privada relacionada ao seu setor de atuação.",
+    "gabarito": "C",
+    "explicacao": "O Art. 5º exige afastamento para evitar conflito de interesses."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) Segundo o Decreto 1.171/1994, é vedado ao servidor usar informações privilegiadas obtidas no cargo para benefício próprio, mas permitido para benefício de familiares.",
+    "gabarito": "E",
+    "explicacao": "O Art. 6º veda o uso de informações privilegiadas para **qualquer** benefício."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) A pena de cassação de aposentadoria ou disponibilidade é prevista na Lei 8.429/1992 para casos de enriquecimento ilícito.",
+    "gabarito": "C",
+    "explicacao": "Está prevista no Art. 12, III, da Lei 8.429/1992."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) A ética pública exige que o servidor trate desigualmente os desiguais, conforme o princípio da isonomia.",
+    "gabarito": "C",
+    "explicacao": "A isonomia pressupõe tratamento diferenciado para corrigir desigualdades (Art. 5º, Código de Ética)."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) Pela Lei 8.112/1990, a acumulação de cargos públicos é permitida se houver compatibilidade de horários e atividades.",
+    "gabarito": "E",
+    "explicacao": "A acumulação só é permitida em casos específicos (ex.: professor com médico, Art. 37, XVII, CF)."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) O servidor que recusa auxílio à população por discordância política comete infração ética, mas não disciplinar.",
+    "gabarito": "E",
+    "explicacao": "É infração **disciplinar** (Art. 132, Lei 8.112/1990) e **ética** (Art. 5º, Decreto 1.171/1994)."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) A Lei 8.429/1992 prevê que o dano ao erário deve ser comprovado para configurar improbidade administrativa.",
+    "gabarito": "E",
+    "explicacao": "A improbidade pode ocorrer sem dano ao erário (ex.: violação de princípios, Art. 11)."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) O servidor que deixa de cumprir ordem ilegal de superior hierárquico age em conformidade com o Código de Ética (Decreto 1.171/1994).",
+    "gabarito": "C",
+    "explicacao": "O Art. 3º determina que ordens ilegais não devem ser cumpridas."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) A demissão por insuficiência de desempenho dispensa processo administrativo disciplinar, conforme a Lei 8.112/1990.",
+    "gabarito": "E",
+    "explicacao": "A demissão exige PAD, mesmo por desempenho (Art. 132)."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) A Lei 12.813/2013 proíbe o servidor de participar de licitação onde tenha interesse pessoal, mesmo que declare o conflito.",
+    "gabarito": "C",
+    "explicacao": "O Art. 3º veda a participação, independentemente de declaração."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) O sigilo profissional pode ser quebrado pelo servidor público se houver interesse social relevante, segundo o Decreto 1.171/1994.",
+    "gabarito": "C",
+    "explicacao": "O Art. 7º permite a quebra de sigilo para evitar dano ao interesse público."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) A advertência por escrito é penalidade aplicável apenas após reincidência em falta leve, conforme a Lei 8.112/1990.",
+    "gabarito": "E",
+    "explicacao": "A advertência pode ser aplicada na primeira infração (Art. 127, I)."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) A Lei 8.429/1992 prevê a reparação do dano ao erário como efeito automático da condenação por improbidade.",
+    "gabarito": "C",
+    "explicacao": "O Art. 12 estabelece a obrigação de reparação integral do dano."
+  },
+  {
+    "numero": 26,
+    "texto": "(2025) O servidor que usa veículo oficial para fins particulares comete infração ética, mas não está sujeito a penalidade disciplinar.",
+    "gabarito": "E",
+    "explicacao": "É infração disciplinar (Art. 132, Lei 8.112/1990) e ética (Art. 6º, Decreto 1.171/1994)."
+  },
+  {
+    "numero": 27,
+    "texto": "(2025) A Lei 12.813/2013 obriga o servidor a declarar conflitos de interesse mesmo que não haja relação direta com suas atribuições.",
+    "gabarito": "E",
+    "explicacao": "A declaração é exigida apenas se houver relação com as funções (Art. 2º)."
+  },
+  {
+    "numero": 28,
+    "texto": "(2025) Segundo o Código de Ética, o servidor pode divulgar informações sigilosas se acreditar que isso beneficiará sua carreira.",
+    "gabarito": "E",
+    "explicacao": "O Art. 7º veda a divulgação de informações sigilosas sem justificativa legal."
+  },
+  {
+    "numero": 29,
+    "texto": "(2025) A pena de multa civil é aplicável ao agente público condenado por improbidade administrativa, conforme a Lei 8.429/1992.",
+    "gabarito": "C",
+    "explicacao": "Prevista no Art. 12, IV, da Lei 8.429/1992."
+  },
+  {
+    "numero": 30,
+    "texto": "(2025) A ética na função pública exige que o servidor priorize a eficiência, mesmo que em detrimento da legalidade.",
+    "gabarito": "E",
+    "explicacao": "A legalidade é princípio absoluto (Art. 37, CF); eficiência não a sobrepõe."
+  }
+]

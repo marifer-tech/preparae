@@ -1,0 +1,188 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2014) Em razão do princípio da eficiência, é possível, mediante licitação, a contratação de empresa que não tenha apresentado toda a documentação de habilitação exigida, desde que a proposta seja a mais vantajosa para a administração.",
+    "gabarito": "E",
+    "explicacao": "O princípio da eficiência não autoriza a dispensa das exigências legais previstas na Lei 8.666/93. A habilitação é etapa obrigatória da licitação."
+  },
+  {
+    "numero": 2,
+    "texto": "(2014) O DPF, em razão do exercício das atribuições de polícia judiciária, não se submete ao princípio da publicidade, sendo garantido sigilo aos atos praticados pelo órgão.",
+    "gabarito": "E",
+    "explicacao": "O princípio da publicidade só pode ser limitado em situações excepcionais previstas na Constituição, como segurança do Estado. A regra é a transparência dos atos administrativos."
+  },
+  {
+    "numero": 3,
+    "texto": "(2014) A instituição de órgão próprio para exercer as atribuições de polícia judiciária no âmbito da União é exemplo de descentralização administrativa.",
+    "gabarito": "E",
+    "explicacao": "A criação de órgãos internos no âmbito de uma mesma pessoa jurídica caracteriza desconcentração, e não descentralização."
+  },
+  {
+    "numero": 4,
+    "texto": "(2014) Durante uma operação policial, uma viatura do DPF colide com um carro particular. Nessa situação, a administração responderá pelos danos causados, ainda que se comprove que o motorista da viatura agiu com diligência e prudência.",
+    "gabarito": "C",
+    "explicacao": "A responsabilidade civil objetiva do Estado (art. 37, §6º, CF) independe de dolo ou culpa, bastando o dano e o nexo com o serviço público."
+  },
+  {
+    "numero": 5,
+    "texto": "(2014) O poder para a instauração de processo administrativo disciplinar e aplicação da penalidade decorre do poder de polícia da administração.",
+    "gabarito": "E",
+    "explicacao": "Esse poder decorre do poder hierárquico, que confere à Administração a possibilidade de fiscalizar e punir seus subordinados."
+  },
+  {
+    "numero": 6,
+    "texto": "(2014) Há presunção de legitimidade e veracidade nos atos praticados pela administração durante processo de licitação.",
+    "gabarito": "C",
+    "explicacao": "Todos os atos administrativos gozam de presunção de legitimidade e veracidade, inclusive os praticados em processos licitatórios."
+  },
+  {
+    "numero": 7,
+    "texto": "(2014) Considere que determinado município tenha extinguido órgão da sua estrutura administrativa e delegado o serviço público correspondente a uma pessoa jurídica de direito privado. Nessa situação, ocorreu descentralização da atividade administrativa.",
+    "gabarito": "C",
+    "explicacao": "A transferência de execução de serviço público a outra pessoa jurídica caracteriza descentralização, com rompimento do vínculo hierárquico."
+  },
+  {
+    "numero": 8,
+    "texto": "(2014) Na ocorrência do fenômeno da desconcentração administrativa, os órgãos resultantes não perdem o vínculo hierárquico com a pessoa jurídica de origem.",
+    "gabarito": "C",
+    "explicacao": "A desconcentração distribui internamente competências dentro da mesma pessoa jurídica, mantendo vínculo hierárquico."
+  },
+  {
+    "numero": 9,
+    "texto": "(2014) Caso a administração pública não conclua nova licitação no prazo de 180 dias após contratar emergencialmente uma empresa para prestar serviço de segurança, poderá prorrogar o contrato por mais 90 dias.",
+    "gabarito": "E",
+    "explicacao": "Contratos emergenciais são improrrogáveis, segundo o art. 24, IV, da Lei 8.666/93. A prorrogação é vedada."
+  },
+  {
+    "numero": 10,
+    "texto": "(2014) Não há previsão legal para a margem de preferência em processos licitatórios para bens e serviços com tecnologia desenvolvida no Brasil.",
+    "gabarito": "E",
+    "explicacao": "A Lei nº 12.349/2010 introduziu a possibilidade de margem de preferência para produtos nacionais com tecnologia desenvolvida no país."
+  },
+  {
+    "numero": 11,
+    "texto": "(2014) A transferência, mediante ato administrativo, da execução de serviço público a uma autarquia configura descentralização administrativa por outorga.",
+    "gabarito": "C",
+    "explicacao": "A descentralização por outorga ocorre quando a lei transfere a titularidade e execução de serviço público a uma entidade da Administração Indireta, como uma autarquia."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) O princípio da eficiência permite a dispensa de licitação para contratação de serviços técnicos especializados, desde que o contratado possua notória qualificação.",
+    "gabarito": "E",
+    "explicacao": "A dispensa por notória especialização está prevista no art. 25, II da Lei 8.666/93, mas não decorre do princípio da eficiência e sim de disposição legal específica."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A criação de uma delegacia especializada do DPF em determinado estado caracteriza exemplo típico de descentralização administrativa.",
+    "gabarito": "E",
+    "explicacao": "Trata-se de desconcentração, pois mantém o vínculo hierárquico dentro da mesma pessoa jurídica (União)."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) Em caso de acidente com viatura oficial do DPF que cause danos a terceiros, a responsabilidade civil do Estado só será configurada se comprovada culpa do agente público.",
+    "gabarito": "E",
+    "explicacao": "A responsabilidade é objetiva (art. 37, §6º da CF), prescindindo de culpa, bastando o dano e o nexo causal."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) O poder disciplinar da administração pública decorre diretamente do poder hierárquico e independe de previsão legal específica.",
+    "gabarito": "C",
+    "explicacao": "O poder disciplinar é inerente ao poder hierárquico, permitindo à administração punir infrações funcionais."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) A administração pode declarar a nulidade de um processo licitatório por vício insanável, mesmo após a celebração do contrato.",
+    "gabarito": "C",
+    "explicacao": "A nulidade pode ser declarada a qualquer tempo quando o vício for insanável e afetar a legitimidade do procedimento."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) A concessão de serviço público a empresa privada mediante licitação caracteriza descentralização por delegação.",
+    "gabarito": "C",
+    "explicacao": "A concessão é modalidade de descentralização por delegação, com transferência da execução (não da titularidade) a particular."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) Na desconcentração administrativa, os órgãos criados adquirem personalidade jurídica própria, distinta da entidade matriz.",
+    "gabarito": "E",
+    "explicacao": "Na desconcentração não há nova pessoa jurídica, apenas distribuição interna de competências."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) Contratos emergenciais celebrados por inexigibilidade de licitação podem ser prorrogados por igual período, desde que mantidas as condições originais.",
+    "gabarito": "E",
+    "explicacao": "Os contratos celebrados com base no art. 24, IV da Lei 8.666/93 são expressamente vedados de prorrogação."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) A margem de preferção para empresas que desenvolvam tecnologia nacional aplica-se apenas a licitações do tipo concurso.",
+    "gabarito": "E",
+    "explicacao": "A preferência para produtos e serviços nacionais (Lei 12.349/2010) aplica-se a todas as modalidades licitatórias."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) A outorga de serviço público a autarquia deve ser feita necessariamente por lei, não podendo ser realizada por contrato.",
+    "gabarito": "C",
+    "explicacao": "A descentralização por outorga (para entidades da Administração Indireta) exige lei, diferentemente da delegação a particulares."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) O princípio da moralidade administrativa autoriza o gestor público a flexibilizar normas processuais para agilizar licitações de grande relevância social.",
+    "gabarito": "E",
+    "explicacao": "A moralidade não legitima violação de normas, sendo vinculada à probidade e lealdade institucional."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) Atos administrativos do DPF estão imunes ao controle judicial quando praticados no exercício estrito da função de polícia judiciária.",
+    "gabarito": "E",
+    "explicacao": "Não há imunidade ao controle judicial, mesmo em atos típicos de polícia judiciária, sujeitos ao controle de legalidade."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) A responsabilidade civil do Estado por danos causados por agentes do DPF em operações policiais exclui a responsabilidade subsidiária do agente.",
+    "gabarito": "E",
+    "explicacao": "A responsabilidade do Estado é objetiva, mas o agente pode responder subsidiariamente por dolo ou culpa grave (art. 37, §6º, CF)."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) O poder disciplinar da administração pública está limitado às infrações funcional previstas expressamente em lei.",
+    "gabarito": "E",
+    "explicacao": "O poder disciplinar não depende de tipificação legal prévia, podendo punir qualquer conduta contrária aos deveres funcionais."
+  },
+  {
+    "numero": 26,
+    "texto": "(2025) A anulação de licitação por vício insanável gera direito à indenização do licitante vencedor pelos prejuízos comprovados.",
+    "gabarito": "C",
+    "explicacao": "A administração deve indenizar os prejuízos efetivos decorrentes da anulação, desde que o licitante seja inocente quanto ao vício."
+  },
+  {
+    "numero": 27,
+    "texto": "(2025) A terceirização de serviços de vigilância por órgão público configura descentralização administrativa.",
+    "gabarito": "E",
+    "explicacao": "Terceirização é mera execução indireta, sem transferência de titularidade, não caracterizando descentralização."
+  },
+  {
+    "numero": 28,
+    "texto": "(2025) Na desconcentração administrativa, os órgãos resultantes podem praticar atos com autonomia decisória, mas permanecem subordinados hierarquicamente.",
+    "gabarito": "C",
+    "explicacao": "A desconcentração confere autonomia técnica, mas mantém o vínculo hierárquico e a subordinação à entidade matriz."
+  },
+  {
+    "numero": 29,
+    "texto": "(2025) Contratos celebrados por inexigibilidade de licitação podem ser prorrogados indefinidamente enquanto persistir a situação de inexigibilidade.",
+    "gabarito": "E",
+    "explicacao": "Nenhum contrato administrativo pode ser prorrogado indefinidamente, devendo observar prazos máximos legais."
+  },
+  {
+    "numero": 30,
+    "texto": "(2025) A preferência para produtos brasileiros em licitações aplica-se mesmo quando o preço for até 25% superior ao de similares estrangeiros.",
+    "gabarito": "C",
+    "explicacao": "A Lei 12.349/2010 estabelece essa margem de preferência para bens e serviços nacionais ou com tecnologia desenvolvida no país."
+  },
+   {
+    "numero": 31,
+    "texto": "(2025) Os atos administrativos praticados pelo DPF estão sujeitos ao controle interno e externo, inclusive pelo Tribunal de Contas da União.",
+    "gabarito": "C",
+    "explicacao": "Todos os atos da administração pública estão sujeitos aos controles interno (art. 74, CF) e externo (art. 71, CF), incluindo o TCU."
+  },
+]

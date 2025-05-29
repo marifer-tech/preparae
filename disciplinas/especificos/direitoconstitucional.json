@@ -1,0 +1,156 @@
+[
+  {
+    "numero": 1,
+    "texto": "(2014) Constituição, em sua acepção formal, corresponde ao documento solene que disciplina as normas superiores elaboradas por um processo constituinte específico, sendo as normas integrantes da Constituição Federal de 1988 (CF) caracterizadas como formalmente e materialmente constitucionais.",
+    "gabarito": "E",
+    "explicacao": "Nem todas as normas integrantes da CF possuem conteúdo materialmente constitucional. A Constituição formal abrange todas as normas nela contidas, mas apenas parte delas trata de temas centrais (organização do Estado, direitos fundamentais etc.), sendo materialmente constitucionais."
+  },
+  {
+    "numero": 2,
+    "texto": "(2014) Na hipótese da ocorrência de crime contra o patrimônio da Empresa Brasileira de Correios e Telégrafos, compete à Polícia Federal apurar a infração penal.",
+    "gabarito": "C",
+    "explicacao": "A ECT é empresa pública federal. Nos termos do art. 144, § 1º, I, da Constituição Federal, compete à PF apurar infrações penais em detrimento de bens, serviços e interesses da União e de suas entidades."
+  },
+  {
+    "numero": 3,
+    "texto": "(2014) A Força Nacional de Segurança Pública, a Polícia Federal e a Polícia Rodoviária Federal são órgãos destinados ao exercício da segurança pública no Brasil.",
+    "gabarito": "E",
+    "explicacao": "A Força Nacional não integra o rol taxativo do art. 144 da CF. Apenas os órgãos expressamente citados — PF, PRF, PFF, polícias civis, PMs e corpos de bombeiros — fazem parte da segurança pública."
+  },
+  {
+    "numero": 4,
+    "texto": "(2014) O terrorismo, o racismo, a tortura e o tráfico ilícito de entorpecentes são crimes hediondos, inafiançáveis e insuscetíveis de graça e anistia.",
+    "gabarito": "E",
+    "explicacao": "Segundo os arts. 5º, XLII e XLIII da CF, o racismo é inafiançável e imprescritível, mas não há vedação expressa à concessão de graça ou anistia."
+  },
+  {
+    "numero": 5,
+    "texto": "(2014) Considere que uma criança tenha nascido nos EUA, filha de pai americano e de mãe brasileira a serviço do Brasil. Nesse caso, a criança somente será considerada brasileira nata se for registrada na repartição brasileira competente nos EUA.",
+    "gabarito": "E",
+    "explicacao": "De acordo com o art. 12, I, b da CF, filhos de brasileiros nascidos no exterior, se o genitor estiver a serviço do Brasil, são considerados brasileiros natos automaticamente, independentemente de registro em repartição."
+  },
+
+
+  {
+    "numero": 6,
+    "texto": "(2025) Os princípios fundamentais da República Federativa do Brasil incluem a soberania, a cidadania e o pluralismo político, mas não o repúdio ao terrorismo como fundamento expresso da CF/1988.",
+    "gabarito": "E",
+    "explicacao": "O art. 1º da CF/1988 lista como fundamentos a soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e pluralismo político. O repúdio ao terrorismo está previsto no art. 4º (princípios das relações internacionais)."
+  },
+  {
+    "numero": 7,
+    "texto": "(2025) Compete exclusivamente à Polícia Federal a apuração de infrações penais contra os bens da União, mesmo que praticadas em território estadual.",
+    "gabarito": "C",
+    "explicacao": "Conforme o art. 144, §1º, I, da CF, a PF tem competência para apurar infrações contra bens, serviços ou interesses da União, independentemente da localização territorial."
+  },
+  {
+    "numero": 8,
+    "texto": "(2025) O direito à vida e à igualdade são cláusulas pétreas da CF/1988, podendo ser alterados apenas por nova assembleia constituinte.",
+    "gabarito": "E",
+    "explicacao": "As cláusulas pétreas (art. 60, §4º) não podem ser abolidas por emenda, mas podem ser regulamentadas sem necessidade de nova constituinte."
+  },
+  {
+    "numero": 9,
+    "texto": "(2025) Os municípios possuem autonomia para legislar sobre questões locais, mas suas leis não podem contrariar a Constituição Federal ou as constituições estaduais.",
+    "gabarito": "C",
+    "explicacao": "A autonomia municipal (art. 18 da CF) é relativa, devendo respeitar a hierarquia normativa (CF > leis estaduais > leis municipais)."
+  },
+  {
+    "numero": 10,
+    "texto": "(2025) O servidor público estável só pode perder o cargo após processo administrativo com ampla defesa, exceto em caso de condenação criminal transitada em julgado.",
+    "gabarito": "C",
+    "explicacao": "O art. 41 da CF assegura a estabilidade, mas a perda do cargo pode ocorrer por condenação criminal definitiva sem processo administrativo."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) O Presidente da República pode editar medidas provisórias em qualquer matéria, desde que relevantes e urgentes, sem limitação constitucional.",
+    "gabarito": "E",
+    "explicacao": "O art. 62 da CF veda MPs em temas como direito penal, tributário e organização do Poder Judiciário."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) A seguridade social é financiada por toda a sociedade, de forma direta e indireta, mediante contribuições sociais previstas no art. 195 da CF.",
+    "gabarito": "C",
+    "explicacao": "O art. 195 estabelece que a seguridade social é custeada por contribuições sociais de empregadores, trabalhadores e outros."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) A Polícia Rodoviária Federal tem competência exclusiva para patrulhar todas as rodovias brasileiras, incluindo as estaduais.",
+    "gabarito": "E",
+    "explicacao": "A PRF atua apenas em rodovias federais (art. 144, §2º). As estaduais são de responsabilidade das polícias militares."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) O princípio da anterioridade tributária veda a cobrança de impostos no mesmo exercício financeiro em que foi publicada a lei que os instituiu.",
+    "gabarito": "C",
+    "explicacao": "O art. 150, III, 'b' da CF exige que a maioria dos impostos só possa ser cobrada no ano seguinte à publicação da lei."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) A liberdade de expressão é absoluta, não podendo ser limitada mesmo em casos de discurso de ódio ou incitação à violência.",
+    "gabarito": "E",
+    "explicacao": "O art. 5º, IV garante a liberdade de expressão, mas sujeita-a a limites (ex.: racismo é crime inafiançável - art. 5º, XLII)."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) Os direitos sociais, como educação e saúde, são prestados pelo Estado de forma imediata, independentemente de regulamentação legal.",
+    "gabarito": "E",
+    "explicacao": "Direitos sociais (art. 6º) são de aplicação progressiva, dependendo de políticas públicas e orçamento (art. 196 da CF para a saúde)."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) A administração pública direta inclui autarquias e fundações públicas, que possuem personalidade jurídica própria.",
+    "gabarito": "E",
+    "explicacao": "A administração direta é composta por órgãos sem personalidade jurídica. Autarquias e fundações integram a administração indireta (art. 37, XIX)."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) O STF possui competência originária para julgar crimes comuns praticados pelo Presidente da República.",
+    "gabarito": "C",
+    "explicacao": "O art. 102, I, 'b' da CF atribui ao STF o julgamento de crimes comuns do Presidente."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) A União pode intervir nos estados para garantir o livre exercício do Poder Judiciário, mas não para assegurar a observância de princípios constitucionais.",
+    "gabarito": "E",
+    "explicacao": "A intervenção federal (art. 34, VII) também ocorre para assegurar princípios como a forma republicana e os direitos humanos."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) O regime de previdência dos servidores públicos é idêntico ao dos trabalhadores da iniciativa privada, sem quaisquer diferenças constitucionais.",
+    "gabarito": "E",
+    "explicacao": "O art. 40 da CF estabelece regras específicas para a previdência do servidor público (ex.: aposentadoria por tempo de serviço)."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) O direito de greve é assegurado aos servidores públicos sem restrições, nos mesmos termos da iniciativa privada.",
+    "gabarito": "E",
+    "explicacao": "O art. 37, VII da CF exige lei específica para regulamentar a greve no serviço público, sujeita a limites."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) A competência concorrente entre União, estados e DF permite que os estados legislem sobre normas gerais de direito tributário.",
+    "gabarito": "E",
+    "explicacao": "A competência concorrente (art. 24) não inclui direito tributário (reservado à União por art. 146)."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) A imunidade tributária recíproca veda a cobrança de impostos sobre patrimônio de partidos políticos, mas não se estende a suas rendas.",
+    "gabarito": "E",
+    "explicacao": "O art. 150, VI, 'a' da CF protege patrimônio, rendas e serviços de partidos políticos."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) O Ministério Público Federal pode propor ação direta de inconstitucionalidade perante o STF.",
+    "gabarito": "C",
+    "explicacao": "O art. 103, VI da CF inclui o MPF entre os legitimados para ADIs."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) A CF/1988 assegura a livre manifestação do pensamento, mas veda o anonimato em qualquer circunstância.",
+    "gabarito": "C",
+    "explicacao": "O art. 5º, IV garante a liberdade de expressão, e o inciso V proíbe o anonimato sem exceções."
+  }
+
+
+]
