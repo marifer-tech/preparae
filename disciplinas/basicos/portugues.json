@@ -1,66 +1,304 @@
 [
   {
     "numero": 1,
-    "texto": "(2014) A supressão das vírgulas que isolam a oração 'se o medo não fosse constante' não afetaria a correção gramatical do texto.",
-    "gabarito": "E",
-    "explicacao": "As vírgulas são obrigatórias pois marcam a intercalação da oração subordinada adverbial, o que torna sua supressão gramaticalmente incorreta."
+    "texto": "(2025) [Emprego do sinal indicativo de crase] A frase 'Às segundas-feiras, realizamos reuniões' está correta quanto ao uso da crase.",
+    "gabarito": "C",
+    "explicacao": "A preposição 'a' exigida pelo verbo somada ao artigo definido 'as' justifica o uso do acento indicativo de crase."
   },
   {
     "numero": 2,
-    "texto": "(2014) A coerência e a coesão do texto não seriam prejudicadas se o trecho fosse reescrito com tempos futuros.",
+    "texto": "(2025) [Domínio da ortografia oficial] A forma 'enxergar' está de acordo com a ortografia oficial e deve ser preferida a 'enxergar'.",
     "gabarito": "C",
-    "explicacao": "A correlação entre os tempos verbais seria mantida: futuro do subjuntivo com futuro do presente do indicativo."
+    "explicacao": "A forma correta e única aceita pela ortografia oficial é 'enxergar'."
   },
   {
     "numero": 3,
-    "texto": "(2014) O verbo alardear, em 'Se fosse o tal ser humano forte que alardeio', está empregado no sentido de vangloriar-se.",
+    "texto": "(2025) [Emprego de elementos de coesão textual] A substituição de 'por isso' por 'embora' mantém a coesão textual do trecho 'O servidor atrasou, por isso perdeu o horário'.",
     "gabarito": "E",
-    "explicacao": "No contexto, o verbo 'alardear' é usado no sentido de revelar ou mostrar-se, não de vangloriar-se."
+    "explicacao": "'Por isso' indica consequência; 'embora' expressa concessão. A substituição altera o sentido e compromete a coesão."
   },
   {
     "numero": 4,
-    "texto": "(2014) Infere-se do texto que as mazelas que assolam o mundo se devem às desigualdades sociais.",
+    "texto": "(2025) [Concordância verbal e nominal] A frase 'Falta livros na estante' está correta quanto à concordância verbal.",
     "gabarito": "E",
-    "explicacao": "O texto aponta como causa principal a inação e o comodismo das pessoas, e não diretamente as desigualdades sociais."
+    "explicacao": "O verbo 'faltar' deve concordar com o sujeito plural: 'Faltam livros na estante'."
   },
-
-{
+  {
     "numero": 5,
-    "texto": "(2025) A ausência de concordância entre o sujeito composto 'eficiência e responsabilidade' e o verbo no singular compromete a correção da frase: 'Eficiência e responsabilidade é fundamental'.",
+    "texto": "(2025) [Emprego das classes de palavras] Na frase 'Ele mesmo consertou o computador', o uso do pronome está adequado.",
     "gabarito": "C",
-    "explicacao": "O sujeito composto exige verbo no plural. O correto seria: 'Eficiência e responsabilidade são fundamentais'."
+    "explicacao": "O pronome 'mesmo' está corretamente empregado para dar ênfase ao sujeito 'ele'."
   },
   {
     "numero": 6,
-    "texto": "(2025) A expressão 'por conseguinte', ao ser empregada em um parágrafo, introduz uma ideia de oposição entre as orações, semelhante à de 'no entanto'.",
+    "texto": "(2025) [Colocação dos pronomes átonos] A forma 'Se entregou os relatórios ontem' está correta quanto à colocação pronominal.",
     "gabarito": "E",
-    "explicacao": "'Por conseguinte' indica consequência, enquanto 'no entanto' introduz contraste. São conectores de naturezas distintas."
+    "explicacao": "Não se deve iniciar oração com pronome oblíquo átono. O correto seria 'Entregou-se os relatórios ontem'."
   },
   {
     "numero": 7,
-    "texto": "(2025) No texto administrativo, é adequado substituir 'a fim de' por 'afim de', visto que ambas as formas são equivalentes e intercambiáveis.",
-    "gabarito": "E",
-    "explicacao": "'A fim de' indica finalidade; 'afim' é adjetivo que expressa afinidade. A substituição compromete a correção e o sentido."
+    "texto": "(2025) [Regência nominal e verbal] A construção 'Precisa-se de profissionais qualificados' está correta quanto à regência verbal.",
+    "gabarito": "C",
+    "explicacao": "O verbo 'precisar', quando usado no sentido de 'necessitar', exige a preposição 'de'."
   },
   {
     "numero": 8,
-    "texto": "(2025) A construção 'é necessário que os servidores atualizem seus cadastros' está correta quanto à regência e à concordância verbal.",
+    "texto": "(2025) [Relações de subordinação entre orações] A oração 'Se estudarmos bastante, seremos aprovados' estabelece relação de subordinação condicional.",
     "gabarito": "C",
-    "explicacao": "O verbo 'ser' permanece no singular quando seguido de oração subordinada com sujeito oracional. A forma está adequada."
+    "explicacao": "A oração subordinada adverbial condicional indica condição para o cumprimento da ação principal."
   },
   {
     "numero": 9,
-    "texto": "(2025) Em 'Apesar de terem sido notificados, os licitantes não compareceram à audiência', o uso da preposição 'de' após 'apesar' é inadequado em contextos formais.",
+    "texto": "(2025) [Relações de coordenação entre orações] A conjunção 'mas' em 'Ela tentou, mas não conseguiu' expressa uma ideia de consequência.",
     "gabarito": "E",
-    "explicacao": "'Apesar de' exige obrigatoriamente a preposição 'de'. A construção apresentada está correta e gramaticalmente adequada."
+    "explicacao": "'Mas' é uma conjunção adversativa, e não consecutiva."
   },
   {
     "numero": 10,
-    "texto": "(2025) A substituição do termo 'por meio de' por 'mediante' mantém a correção gramatical e o sentido da frase: 'O pagamento será feito por meio de transferência bancária'.",
+    "texto": "(2025) [Correspondência oficial] Em um ofício, é adequado iniciar o texto com a expressão 'Senhor Diretor'.",
     "gabarito": "C",
-    "explicacao": "Ambas as expressões são equivalentes em sentido instrumental e estão corretas no contexto administrativo."
+    "explicacao": "A forma 'Senhor Diretor' é apropriada ao tratamento formal exigido nos documentos oficiais."
+  },
+  {
+    "numero": 11,
+    "texto": "(2025) [Emprego da acentuação gráfica] A palavra 'heroico' mantém o acento mesmo após o Acordo Ortográfico.",
+    "gabarito": "C",
+    "explicacao": "'Heroico' não sofreu alteração ortográfica. Continua acentuada pela regra do hiato com 'i' tônico."
+  },
+  {
+    "numero": 12,
+    "texto": "(2025) [Tipologia textual] Textos injuntivos têm como objetivo principal instruir ou ordenar o leitor.",
+    "gabarito": "C",
+    "explicacao": "A tipologia injuntiva é marcada por verbos no imperativo ou no infinitivo, orientando ações."
+  },
+  {
+    "numero": 13,
+    "texto": "(2025) [Emprego dos sinais de pontuação] O uso da vírgula em 'João, que é engenheiro, aprovou o projeto' está incorreto.",
+    "gabarito": "E",
+    "explicacao": "A oração explicativa deve ser isolada por vírgulas. O uso está correto."
+  },
+  {
+    "numero": 14,
+    "texto": "(2025) [Compreensão e interpretação de textos] Inferir é o mesmo que deduzir informações que não estão explícitas no texto.",
+    "gabarito": "C",
+    "explicacao": "Inferência consiste na construção de sentido a partir de pistas textuais, mesmo que não explícitas."
+  },
+  {
+    "numero": 15,
+    "texto": "(2025) [Emprego/correlação de tempos e modos verbais] A frase 'Se ele vir, traga-o até mim' está incorreta quanto à correlação verbal.",
+    "gabarito": "E",
+    "explicacao": "A frase está correta. 'Vir' é o futuro do subjuntivo, e 'traga' está no imperativo afirmativo."
+  },
+  {
+    "numero": 16,
+    "texto": "(2025) [Domínio da estrutura morfossintática do período] A oração 'porque chovia' é subordinada adverbial causal.",
+    "gabarito": "C",
+    "explicacao": "'Porque' indica causa; a oração depende da principal e estabelece relação de causalidade."
+  },
+  {
+    "numero": 17,
+    "texto": "(2025) [Correspondência oficial] Em comunicações oficiais, a linguagem deve ser impessoal, objetiva e clara.",
+    "gabarito": "C",
+    "explicacao": "A linguagem técnica e impessoal garante clareza e uniformidade em documentos administrativos."
+  },
+  {
+    "numero": 18,
+    "texto": "(2025) [Domínio da coesão textual] O uso do pronome 'este' retoma uma ideia anteriormente citada no texto.",
+    "gabarito": "E",
+    "explicacao": "'Este' se refere a algo que ainda será mencionado; para retomar, usa-se 'esse'."
+  },
+  {
+    "numero": 19,
+    "texto": "(2025) [Regência nominal e verbal] O correto é dizer 'necessita-se de informações' e não 'necessita-se informações'.",
+    "gabarito": "C",
+    "explicacao": "O verbo 'necessitar' exige a preposição 'de', quando usado no sentido de precisar."
+  },
+  {
+    "numero": 20,
+    "texto": "(2025) [Domínio da ortografia oficial] A grafia 'exceção' está correta, de acordo com o novo Acordo Ortográfico.",
+    "gabarito": "C",
+    "explicacao": "A grafia 'exceção' permanece inalterada após o Acordo Ortográfico."
+  },
+  {
+    "numero": 21,
+    "texto": "(2025) [Emprego das classes de palavras] O termo 'que' na frase 'O livro que comprei é ótimo' é um pronome relativo.",
+    "gabarito": "C",
+    "explicacao": "'Que' retoma o termo 'livro', funcionando como pronome relativo e conectando as orações."
+  },
+  {
+    "numero": 22,
+    "texto": "(2025) [Compreensão e interpretação de textos] A expressão 'por outro lado' indica uma conclusão lógica do texto.",
+    "gabarito": "E",
+    "explicacao": "'Por outro lado' é um conector de contraste ou oposição, não de conclusão."
+  },
+  {
+    "numero": 23,
+    "texto": "(2025) [Emprego dos sinais de pontuação] O uso da vírgula antes de 'etc.' é obrigatório.",
+    "gabarito": "C",
+    "explicacao": "A vírgula antes de 'etc.' é obrigatória, pois este é um elemento final de enumeração."
+  },
+  {
+    "numero": 24,
+    "texto": "(2025) [Tipologia textual] Um artigo de opinião é um exemplo de texto dissertativo-argumentativo.",
+    "gabarito": "C",
+    "explicacao": "A estrutura do artigo de opinião é típica da dissertação com argumentos e ponto de vista."
+  },
+  {
+    "numero": 25,
+    "texto": "(2025) [Colocação dos pronomes átonos] É incorreto dizer 'Lhe entreguei o documento'.",
+    "gabarito": "E",
+    "explicacao": "'Lhe' é pronome oblíquo adequado para objeto indireto, como exige o verbo 'entregar'."
+  },
+  {
+    "numero": 26,
+    "texto": "(2025) [Domínio da estrutura morfossintática] Na oração 'Os alunos que estudam passarão no concurso', há uma oração subordinada adjetiva restritiva.",
+    "gabarito": "C",
+    "explicacao": "A oração restringe o grupo de 'alunos' e não é isolada por vírgulas, sendo portanto restritiva."
+  },
+  {
+    "numero": 27,
+    "texto": "(2025) [Regência nominal e verbal] O correto é 'amor à pátria' e não 'amor pela pátria'.",
+    "gabarito": "C",
+    "explicacao": "A regência do substantivo 'amor', no sentido patriótico, exige a preposição 'a'."
+  },
+  {
+    "numero": 28,
+    "texto": "(2025) [Emprego/correlação de tempos verbais] A frase 'Se eu ganhasse na loteria, viajaria pelo mundo' apresenta correlação verbal adequada.",
+    "gabarito": "C",
+    "explicacao": "O imperfeito do subjuntivo ('ganhasse') combina com o futuro do pretérito ('viajaria')."
+  },
+  {
+    "numero": 29,
+    "texto": "(2025) [Ortografia oficial] A palavra 'beneficente' é frequentemente escrita incorretamente como 'beneficiente'.",
+    "gabarito": "C",
+    "explicacao": "A forma correta é 'beneficente', com 'c'. A troca por 'ci' é erro comum."
+  },
+  {
+    "numero": 30,
+    "texto": "(2025) [Crase] É obrigatório o uso da crase na frase: 'Entreguei o documento à diretora da escola'.",
+    "gabarito": "C",
+    "explicacao": "A preposição exigida pelo verbo e o artigo definido exigido pelo substantivo justificam a crase."
+  },
+  {
+    "numero": 31,
+    "texto": "(2025) [Pontuação] A omissão da vírgula em 'Não, senhor' compromete a clareza da frase.",
+    "gabarito": "C",
+    "explicacao": "A vírgula separa o advérbio da forma de tratamento, essencial para o entendimento."
+  },
+  {
+    "numero": 32,
+    "texto": "(2025) [Coesão textual] O uso da conjunção 'logo' introduz uma ideia de causa.",
+    "gabarito": "E",
+    "explicacao": "'Logo' é conjunção conclusiva, não causal."
+  },
+  {
+    "numero": 33,
+    "texto": "(2025) [Classes de palavras] A palavra 'bem' pode ser advérbio ou substantivo, a depender do contexto.",
+    "gabarito": "C",
+    "explicacao": "'Bem' como advérbio modifica verbos; como substantivo, pode significar patrimônio ou valor."
+  },
+  {
+    "numero": 34,
+    "texto": "(2025) [Correspondência oficial] A linguagem usada em um aviso deve ser informal, coloquial e subjetiva.",
+    "gabarito": "E",
+    "explicacao": "Mesmo em avisos, a linguagem da correspondência oficial deve ser formal e objetiva."
+  },
+  {
+    "numero": 35,
+    "texto": "(2025) [Pontuação] O uso dos dois-pontos na frase 'O motivo é simples: ele faltou' está adequado.",
+    "gabarito": "C",
+    "explicacao": "Os dois-pontos introduzem uma explicação, o que é adequado ao contexto."
+  },
+  {
+    "numero": 36,
+    "texto": "(2025) [Coesão textual] O pronome 'aquele' retoma elemento anterior no texto.",
+    "gabarito": "E",
+    "explicacao": "O pronome 'aquele' geralmente introduz ou aponta algo mais distante ou que virá, não retoma diretamente."
+  },
+  {
+    "numero": 37,
+    "texto": "(2025) [Verbo e concordância] A expressão 'fizemos nós mesmos' está correta quanto à concordância.",
+    "gabarito": "C",
+    "explicacao": "O pronome 'mesmos' está no plural, concordando com o sujeito 'nós'."
+  },
+  {
+    "numero": 38,
+    "texto": "(2025) [Referência textual] Na frase 'Joana entregou o relatório e ela mesma protocolou', o pronome 'ela' pode gerar ambiguidade.",
+    "gabarito": "C",
+    "explicacao": "Pode não ficar claro se 'ela' refere-se a Joana ou a outra pessoa já citada no contexto."
+  },
+  {
+    "numero": 39,
+    "texto": "(2025) [Ortografia] A grafia 'excesso' está correta.",
+    "gabarito": "C",
+    "explicacao": "'Excesso' é com 'x' e 'ss', conforme as normas ortográficas."
+  },
+  {
+    "numero": 40,
+    "texto": "(2025) [Colocação pronominal] A forma 'entregar-me-ei' está correta quanto à ênclise.",
+    "gabarito": "C",
+    "explicacao": "Com verbos no futuro do presente, a ênclise do pronome é a colocação adequada."
+  },
+  {
+    "numero": 41,
+    "texto": "(2025) [Tipologia textual] A bula de remédio é um texto predominantemente injuntivo.",
+    "gabarito": "C",
+    "explicacao": "Orienta o leitor com verbos no imperativo ou infinitivo, sendo instrucional."
+  },
+  {
+    "numero": 42,
+    "texto": "(2025) [Crase] Não se usa crase antes de verbo.",
+    "gabarito": "C",
+    "explicacao": "A crase é fusão de preposição com artigo definido feminino, e verbos não admitem artigo."
+  },
+  {
+    "numero": 43,
+    "texto": "(2025) [Ortografia] A forma correta é 'impresso' como particípio do verbo 'imprimir'.",
+    "gabarito": "C",
+    "explicacao": "'Impresso' é o particípio irregular do verbo 'imprimir'."
+  },
+  {
+    "numero": 44,
+    "texto": "(2025) [Classes gramaticais] A palavra 'toda' pode ser advérbio ou pronome, dependendo do uso.",
+    "gabarito": "C",
+    "explicacao": "Como advérbio intensifica (ex: 'toda feliz'), e como pronome determina (ex: 'toda a turma')."
+  },
+  {
+    "numero": 45,
+    "texto": "(2025) [Regência] O verbo 'assistir', no sentido de 'ver', exige preposição 'a'.",
+    "gabarito": "C",
+    "explicacao": "Nesse sentido, a regência correta é 'assistir a algo'."
+  },
+  {
+    "numero": 46,
+    "texto": "(2025) [Coesão] A repetição de palavras deve ser evitada para manter a coesão textual.",
+    "gabarito": "C",
+    "explicacao": "A substituição por pronomes ou sinônimos evita redundância e melhora o fluxo textual."
+  },
+  {
+    "numero": 47,
+    "texto": "(2025) [Interpretação de texto] A leitura literal é suficiente para compreensão profunda de textos dissertativos.",
+    "gabarito": "E",
+    "explicacao": "A leitura literal capta apenas o explícito; interpretação exige leitura inferencial e crítica."
+  },
+  {
+    "numero": 48,
+    "texto": "(2025) [Classes de palavras] 'Onde' só pode ser usado com verbos que indicam ideia de lugar.",
+    "gabarito": "C",
+    "explicacao": "'Onde' exige regência locativa. Não deve ser usado com verbos não relacionados a lugar."
+  },
+  {
+    "numero": 49,
+    "texto": "(2025) [Ortografia] A palavra 'abstinência' está escrita corretamente.",
+    "gabarito": "C",
+    "explicacao": "'Abstinência' com 's' e 'ên' segue a grafia correta pela ortografia oficial."
+  },
+  {
+    "numero": 50,
+    "texto": "(2025) [Pontuação] O uso da vírgula após 'portanto' é facultativo.",
+    "gabarito": "C",
+    "explicacao": "'Portanto' pode ser seguido ou não de vírgula, dependendo do ritmo e clareza da frase."
   }
-
-
-
 ]
+
+  
